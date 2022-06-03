@@ -1,0 +1,1758 @@
+File created on 02/06/2022 at 20:16:38.067
+
+[02/06/2022 - 20:22:18.864 DEBUG] (\V4.1\jarvis.js:67:12): 0
+[02/06/2022 - 20:22:18.866 DEBUG] (\V4.1\jarvis.js:69:12): 0.5
+[02/06/2022 - 20:22:53.579 DEBUG] (\V4.1\jarvis.js:67:12): 0
+[02/06/2022 - 20:22:53.581 DEBUG] (\V4.1\jarvis.js:69:12): 0.5
+[02/06/2022 - 20:22:53.583 DEBUG] (\V4.1\jarvis.js:72:16): 1
+[02/06/2022 - 20:22:53.584 DEBUG] (\V4.1\jarvis.js:74:20): 2
+[02/06/2022 - 20:22:53.586 DEBUG] (\V4.1\jarvis.js:76:24): 3
+[02/06/2022 - 20:22:53.588 LOG] (\V4.1\jarvis.js:36:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 20:22:53.591 DEBUG] (\V4.1\jarvis.js:29:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 20:23:02.000 DEBUG] (\V4.1\jarvis.js:67:12): 0
+[02/06/2022 - 20:23:02.007 DEBUG] (\V4.1\jarvis.js:69:12): 0.5
+[02/06/2022 - 20:23:02.010 DEBUG] (\V4.1\jarvis.js:72:16): 1
+[02/06/2022 - 20:23:02.012 DEBUG] (\V4.1\jarvis.js:74:20): 2
+[02/06/2022 - 20:23:02.014 DEBUG] (\V4.1\jarvis.js:76:24): 3
+[02/06/2022 - 20:23:02.016 LOG] (\V4.1\jarvis.js:36:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 20:23:02.019 DEBUG] (\V4.1\jarvis.js:29:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 20:23:09.577 DEBUG] (\V4.1\jarvis.js:67:12): 0
+[02/06/2022 - 20:23:09.580 DEBUG] (\V4.1\jarvis.js:69:12): 0.5
+[02/06/2022 - 20:23:15.161 DEBUG] (\V4.1\jarvis.js:67:12): 0
+[02/06/2022 - 20:23:15.163 DEBUG] (\V4.1\jarvis.js:69:12): 0.5
+[02/06/2022 - 20:23:15.164 DEBUG] (\V4.1\jarvis.js:72:16): 1
+[02/06/2022 - 20:23:15.166 DEBUG] (\V4.1\jarvis.js:74:20): 2
+[02/06/2022 - 20:23:15.168 DEBUG] (\V4.1\jarvis.js:76:24): 3
+[02/06/2022 - 20:23:15.169 LOG] (\V4.1\jarvis.js:36:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 20:23:15.172 DEBUG] (\V4.1\jarvis.js:29:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 20:24:56.139 DEBUG] (\V4.1\jarvis.js:68:12): 0
+[02/06/2022 - 20:26:59.633 DEBUG] (\V4.1\jarvis.js:71:12): 0
+[02/06/2022 - 20:27:13.652 DEBUG] (\V4.1\jarvis.js:71:12): 0
+[02/06/2022 - 20:27:20.038 DEBUG] (\V4.1\jarvis.js:71:12): 0
+[02/06/2022 - 20:27:22.784 DEBUG] (\V4.1\jarvis.js:71:12): 0
+[02/06/2022 - 20:27:27.462 DEBUG] (\V4.1\jarvis.js:71:12): 0
+[02/06/2022 - 20:27:35.895 DEBUG] (\V4.1\jarvis.js:71:12): 0
+[02/06/2022 - 20:36:45.396 DEBUG] (\V4.1\jarvis.js:72:12): 0
+[02/06/2022 - 20:36:53.915 DEBUG] (\V4.1\jarvis.js:72:12): 0
+[02/06/2022 - 20:44:04.464 DEBUG] (\V4.1\jarvis.js:79:12): 0
+[02/06/2022 - 20:44:43.442 DEBUG] (\V4.1\jarvis.js:79:12): 0
+[02/06/2022 - 20:45:13.778 DEBUG] (\V4.1\jarvis.js:80:12): 0
+[02/06/2022 - 20:45:20.128 DEBUG] (\V4.1\jarvis.js:80:12): 0
+[02/06/2022 - 20:45:44.494 DEBUG] (\V4.1\jarvis.js:81:12): 0
+[02/06/2022 - 20:45:51.548 DEBUG] (\V4.1\jarvis.js:81:12): 0
+[02/06/2022 - 20:46:48.259 DEBUG] (\V4.1\jarvis.js:81:12): 0
+[02/06/2022 - 20:47:50.580 DEBUG] (\V4.1\jarvis.js:80:12): 0
+[02/06/2022 - 20:48:17.287 DEBUG] (\V4.1\jarvis.js:80:12): 0
+[02/06/2022 - 20:49:04.185 DEBUG] (\V4.1\jarvis.js:80:12): 0
+[02/06/2022 - 20:49:31.021 DEBUG] (\V4.1\jarvis.js:89:12): 0
+[02/06/2022 - 20:50:13.889 DEBUG] (\V4.1\jarvis.js:89:12): 0
+[02/06/2022 - 20:50:36.985 DEBUG] (\V4.1\jarvis.js:89:12): 0
+[02/06/2022 - 20:51:32.980 DEBUG] (\V4.1\jarvis.js:89:12): 0
+[02/06/2022 - 20:51:59.425 DEBUG] (\V4.1\jarvis.js:89:12): 0
+[02/06/2022 - 20:52:03.691 DEBUG] (\V4.1\jarvis.js:89:12): 0
+[02/06/2022 - 20:52:07.810 DEBUG] (\V4.1\jarvis.js:89:12): 0
+[02/06/2022 - 21:25:59.817 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:38:01.743 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:39:04.841 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:39:16.385 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:39:48.549 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:40:23.634 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:40:37.890 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:40:47.777 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:41:12.026 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:41:50.594 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:48:44.862 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:49:07.399 DEBUG] (\V4.1\jarvis.js:93:12): 0
+[02/06/2022 - 21:49:07.401 DEBUG] (\V4.1\jarvis.js:95:12): 0.5
+[02/06/2022 - 22:41:46.588 DEBUG] (\V4.1\jarvis.js:114:12): 0
+[02/06/2022 - 22:42:01.376 DEBUG] (\V4.1\jarvis.js:114:12): 0
+[02/06/2022 - 22:42:47.142 DEBUG] (\V4.1\jarvis.js:109:12): 0
+[02/06/2022 - 22:42:52.961 DEBUG] (\V4.1\jarvis.js:109:12): 0
+[02/06/2022 - 22:44:31.428 DEBUG] (\V4.1\jarvis.js:109:12): 0
+[02/06/2022 - 22:44:36.953 DEBUG] (\V4.1\jarvis.js:109:12): 0
+[02/06/2022 - 22:45:02.408 DEBUG] (\V4.1\jarvis.js:109:12): 0
+[02/06/2022 - 22:45:06.077 DEBUG] (\V4.1\jarvis.js:109:12): 0
+[02/06/2022 - 22:45:27.439 DEBUG] (\V4.1\jarvis.js:112:12): 0
+[02/06/2022 - 22:45:30.796 DEBUG] (\V4.1\jarvis.js:112:12): 0
+[02/06/2022 - 22:51:34.909 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 22:59:06.219 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 22:59:06.224 DEBUG] (\V4.1\jarvis.js:112:12): 0.5
+[02/06/2022 - 22:59:19.011 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 22:59:19.013 DEBUG] (\V4.1\jarvis.js:112:12): 0.5
+[02/06/2022 - 22:59:26.696 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 22:59:26.697 DEBUG] (\V4.1\jarvis.js:112:12): 0.5
+[02/06/2022 - 22:59:31.611 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 22:59:31.613 DEBUG] (\V4.1\jarvis.js:112:12): 0.5
+[02/06/2022 - 23:03:15.096 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:03:15.098 DEBUG] (\V4.1\jarvis.js:112:12): 0.5
+[02/06/2022 - 23:03:15.100 DEBUG] (\V4.1\jarvis.js:115:16): 1
+[02/06/2022 - 23:03:15.102 DEBUG] (\V4.1\jarvis.js:117:20): 2
+[02/06/2022 - 23:03:15.105 DEBUG] (\V4.1\jarvis.js:119:24): 3
+[02/06/2022 - 23:03:15.108 LOG] (\V4.1\jarvis.js:79:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:03:15.112 DEBUG] (\V4.1\jarvis.js:72:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 23:03:22.527 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:03:22.530 DEBUG] (\V4.1\jarvis.js:112:12): 0.5
+[02/06/2022 - 23:03:22.532 DEBUG] (\V4.1\jarvis.js:115:16): 1
+[02/06/2022 - 23:03:22.534 DEBUG] (\V4.1\jarvis.js:117:20): 2
+[02/06/2022 - 23:03:22.536 DEBUG] (\V4.1\jarvis.js:119:24): 3
+[02/06/2022 - 23:03:22.538 LOG] (\V4.1\jarvis.js:79:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:03:22.541 DEBUG] (\V4.1\jarvis.js:72:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 23:03:28.609 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:03:34.405 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:03:34.407 DEBUG] (\V4.1\jarvis.js:112:12): 0.5
+[02/06/2022 - 23:03:34.408 DEBUG] (\V4.1\jarvis.js:115:16): 1
+[02/06/2022 - 23:03:34.410 DEBUG] (\V4.1\jarvis.js:117:20): 2
+[02/06/2022 - 23:03:34.412 DEBUG] (\V4.1\jarvis.js:119:24): 3
+[02/06/2022 - 23:03:34.414 LOG] (\V4.1\jarvis.js:79:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:03:34.417 DEBUG] (\V4.1\jarvis.js:72:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 23:03:38.607 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:03:42.178 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:03:45.774 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:03:49.368 DEBUG] (\V4.1\jarvis.js:110:12): 0
+[02/06/2022 - 23:04:13.333 DEBUG] (\V4.1\jarvis.js:122:12): 0
+[02/06/2022 - 23:04:13.335 DEBUG] (\V4.1\jarvis.js:124:12): 0.5
+[02/06/2022 - 23:04:13.336 DEBUG] (\V4.1\jarvis.js:127:16): 1
+[02/06/2022 - 23:04:13.338 DEBUG] (\V4.1\jarvis.js:129:20): 2
+[02/06/2022 - 23:04:13.340 DEBUG] (\V4.1\jarvis.js:131:24): 3
+[02/06/2022 - 23:04:13.342 LOG] (\V4.1\jarvis.js:91:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:04:13.344 DEBUG] (\V4.1\jarvis.js:84:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 23:04:17.334 DEBUG] (\V4.1\jarvis.js:122:12): 0
+[02/06/2022 - 23:04:24.848 DEBUG] (\V4.1\jarvis.js:122:12): 0
+[02/06/2022 - 23:04:32.241 DEBUG] (\V4.1\jarvis.js:122:12): 0
+[02/06/2022 - 23:04:32.242 DEBUG] (\V4.1\jarvis.js:124:12): 0.5
+[02/06/2022 - 23:04:36.783 DEBUG] (\V4.1\jarvis.js:122:12): 0
+[02/06/2022 - 23:04:36.785 DEBUG] (\V4.1\jarvis.js:124:12): 0.5
+[02/06/2022 - 23:04:36.787 DEBUG] (\V4.1\jarvis.js:127:16): 1
+[02/06/2022 - 23:04:36.788 DEBUG] (\V4.1\jarvis.js:129:20): 2
+[02/06/2022 - 23:04:36.790 DEBUG] (\V4.1\jarvis.js:131:24): 3
+[02/06/2022 - 23:04:36.792 LOG] (\V4.1\jarvis.js:91:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:04:36.794 DEBUG] (\V4.1\jarvis.js:84:12): [TTS()] > list of 8 items. Saying: erreur
+[02/06/2022 - 23:04:40.765 DEBUG] (\V4.1\jarvis.js:122:12): 0
+[02/06/2022 - 23:05:29.167 DEBUG] (\V4.1\jarvis.js:123:12): 0
+[02/06/2022 - 23:05:29.169 DEBUG] (\V4.1\jarvis.js:125:12): 0.5
+[02/06/2022 - 23:05:29.171 DEBUG] (\V4.1\jarvis.js:128:16): 1
+[02/06/2022 - 23:05:29.172 DEBUG] (\V4.1\jarvis.js:130:20): 2
+[02/06/2022 - 23:05:29.174 DEBUG] (\V4.1\jarvis.js:132:24): 3
+[02/06/2022 - 23:05:29.175 LOG] (\V4.1\jarvis.js:92:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:05:29.178 DEBUG] (\V4.1\jarvis.js:85:12): [TTS()] > list of 8 items. Saying: L'ordinateur entre en veille
+[02/06/2022 - 23:06:35.633 DEBUG] (\V4.1\jarvis.js:123:12): 0
+[02/06/2022 - 23:06:35.635 DEBUG] (\V4.1\jarvis.js:125:12): 0.5
+[02/06/2022 - 23:06:35.636 DEBUG] (\V4.1\jarvis.js:128:16): 1
+[02/06/2022 - 23:06:35.638 DEBUG] (\V4.1\jarvis.js:130:20): 2
+[02/06/2022 - 23:06:35.640 DEBUG] (\V4.1\jarvis.js:132:24): 3
+[02/06/2022 - 23:06:35.641 LOG] (\V4.1\jarvis.js:92:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:06:35.644 DEBUG] (\V4.1\jarvis.js:85:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:06:45.893 DEBUG] (\V4.1\jarvis.js:123:12): 0
+[02/06/2022 - 23:07:25.885 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:07:31.962 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:07:31.963 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:07:31.965 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:07:31.966 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:07:31.968 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:07:31.969 LOG] (\V4.1\jarvis.js:96:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:07:31.972 DEBUG] (\V4.1\jarvis.js:85:12): [TTS()] > list of 8 items. Saying: L'ordinateur entre en veille
+[02/06/2022 - 23:08:22.852 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:08:47.292 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:08:53.966 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:08:53.968 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:08:59.402 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:08:59.404 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:09:04.253 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:09:04.255 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:09:04.256 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:09:04.258 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:09:04.260 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:09:04.261 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:09:04.264 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:13:28.346 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:13:45.010 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:13:56.596 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:14:06.197 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:14:13.403 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:14:39.549 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:14:46.753 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:15:12.317 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:15:24.163 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:17:00.914 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:18:43.673 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:18:43.675 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:18:47.550 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:18:47.552 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:18:47.554 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:18:47.555 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:18:47.557 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:18:47.558 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:18:47.560 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:18:53.558 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:18:53.560 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:18:53.562 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:18:53.564 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:18:53.566 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:18:53.568 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:18:53.570 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:18:59.560 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:18:59.563 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:18:59.565 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:18:59.567 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:18:59.569 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:18:59.570 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:18:59.573 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:19:08.887 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:19:26.357 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:19:26.360 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:19:26.361 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:19:26.363 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:19:26.365 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:19:26.369 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:19:26.370 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:19:31.675 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:19:35.067 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:19:35.069 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:19:35.071 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:19:40.447 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:19:40.449 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:19:40.453 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:19:40.456 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:19:40.458 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:19:40.460 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:19:40.462 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:19:49.196 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:20:15.305 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:20:55.286 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:21:10.529 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:22:14.997 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:22:14.998 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:22:15.000 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:22:15.001 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:22:15.003 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:22:15.006 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:22:15.008 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:22:21.601 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:22:21.602 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:22:21.604 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:22:21.605 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:22:21.607 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:22:21.608 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:22:21.610 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:22:30.391 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:23:56.040 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:23:56.042 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:23:56.043 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:23:56.045 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:23:56.048 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:23:56.050 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:23:56.052 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[02/06/2022 - 23:24:16.069 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:24:32.112 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:24:36.732 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:27:11.531 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:27:11.536 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:27:38.398 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:27:38.400 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:27:41.586 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:27:48.986 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:27:48.987 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:27:52.866 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:27:52.867 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:27:56.507 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:27:56.508 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:27:56.510 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:27:56.512 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:27:56.513 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:27:56.515 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:27:56.518 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:28:08.272 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:28:13.677 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:28:18.062 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:28:18.064 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:28:18.067 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:28:18.068 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:28:18.070 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:28:18.072 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:28:18.074 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:28:25.460 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:28:25.462 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:28:25.466 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:28:25.467 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:28:25.469 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:28:25.471 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:28:25.473 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[02/06/2022 - 23:28:31.936 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:28:31.938 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:28:35.749 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:28:35.751 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:28:35.753 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:28:35.756 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:28:35.758 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:28:35.760 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:28:35.762 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:29:12.348 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:12.350 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:29:12.351 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:29:12.354 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:29:12.355 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:29:12.358 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:29:12.360 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:29:21.721 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:21.723 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:29:21.725 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:29:21.727 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:29:21.729 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:29:21.731 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:29:21.733 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:29:25.948 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:25.951 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:29:25.953 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:29:25.955 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:29:25.957 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:29:25.959 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:29:25.961 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: L'ordinateur entre en veille
+[02/06/2022 - 23:29:29.831 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:29.833 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:29:34.110 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:34.112 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:29:34.114 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:29:34.116 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:29:34.117 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:29:34.119 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:29:34.121 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Passage de l'ordinateur en mode veille
+[02/06/2022 - 23:29:40.236 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:40.237 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:29:40.239 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:29:40.240 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:29:40.242 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:29:40.243 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:29:40.245 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:29:43.796 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:49.459 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:54.307 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:58.405 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:29:58.407 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:30:01.516 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:30:04.888 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:30:09.717 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:30:13.712 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:30:17.559 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:30:22.272 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:30:27.935 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:32:17.629 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:32:17.632 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:32:27.225 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:32:33.086 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:32:33.089 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:32:35.822 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:32:35.824 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:32:35.826 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:32:35.827 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:32:35.829 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:32:35.831 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:32:35.832 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[02/06/2022 - 23:32:41.652 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:32:41.655 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:32:41.657 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:32:41.659 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:32:41.661 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:32:41.663 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:32:41.665 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:32:48.341 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:32:48.343 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:32:48.345 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:32:48.347 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:32:48.349 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:32:48.350 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:32:48.352 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:36:45.810 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:36:45.813 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:36:45.815 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:36:45.817 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:36:45.819 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:36:45.820 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:36:45.822 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:36:52.496 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:36:52.497 DEBUG] (\V4.1\jarvis.js:129:12): 0.5
+[02/06/2022 - 23:36:52.499 DEBUG] (\V4.1\jarvis.js:132:16): 1
+[02/06/2022 - 23:36:52.500 DEBUG] (\V4.1\jarvis.js:134:20): 2
+[02/06/2022 - 23:36:52.502 DEBUG] (\V4.1\jarvis.js:136:24): 3
+[02/06/2022 - 23:36:52.504 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:36:52.506 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:37:24.123 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:38:43.856 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:39:18.085 DEBUG] (\V4.1\jarvis.js:127:12): 0
+[02/06/2022 - 23:39:22.137 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:39:22.193 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:39:24.669 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:39:24.674 DEBUG] (\V4.1\jarvis.js:133:12): 0.5
+[02/06/2022 - 23:39:27.058 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:39:31.627 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:39:31.633 DEBUG] (\V4.1\jarvis.js:133:12): 0.5
+[02/06/2022 - 23:39:36.973 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:39:36.975 DEBUG] (\V4.1\jarvis.js:133:12): 0.5
+[02/06/2022 - 23:39:41.084 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:39:41.086 DEBUG] (\V4.1\jarvis.js:133:12): 0.5
+[02/06/2022 - 23:39:41.087 DEBUG] (\V4.1\jarvis.js:136:16): 1
+[02/06/2022 - 23:39:41.089 DEBUG] (\V4.1\jarvis.js:138:20): 2
+[02/06/2022 - 23:39:41.090 DEBUG] (\V4.1\jarvis.js:140:24): 3
+[02/06/2022 - 23:39:41.092 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:39:41.094 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:40:34.895 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:40:59.600 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:40:59.602 DEBUG] (\V4.1\jarvis.js:133:12): 0.5
+[02/06/2022 - 23:41:03.945 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:41:03.947 DEBUG] (\V4.1\jarvis.js:133:12): 0.5
+[02/06/2022 - 23:41:03.949 DEBUG] (\V4.1\jarvis.js:136:16): 1
+[02/06/2022 - 23:41:03.952 DEBUG] (\V4.1\jarvis.js:138:20): 2
+[02/06/2022 - 23:41:03.954 DEBUG] (\V4.1\jarvis.js:140:24): 3
+[02/06/2022 - 23:41:03.956 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:41:03.958 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:41:29.983 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:44:13.404 DEBUG] (\V4.1\jarvis.js:131:12): 0
+[02/06/2022 - 23:44:13.406 DEBUG] (\V4.1\jarvis.js:133:12): 0.5
+[02/06/2022 - 23:44:13.409 DEBUG] (\V4.1\jarvis.js:136:16): 1
+[02/06/2022 - 23:44:13.412 DEBUG] (\V4.1\jarvis.js:138:20): 2
+[02/06/2022 - 23:44:13.415 DEBUG] (\V4.1\jarvis.js:140:24): 3
+[02/06/2022 - 23:44:13.418 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:44:13.420 DEBUG] (\V4.1\jarvis.js:89:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:44:21.227 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:44:26.100 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:44:34.057 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:44:34.058 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:44:34.060 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:44:34.061 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:44:34.063 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:44:34.065 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:44:34.067 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:44:36.234 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:44:36.236 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:44:36.238 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:44:36.239 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:44:36.241 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:44:36.242 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:44:36.244 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:44:42.195 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:44:42.196 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:44:51.057 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:44:55.437 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:44:55.442 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:45:00.712 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:45:00.714 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:45:00.716 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:45:00.718 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:45:00.720 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:45:00.721 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:45:00.723 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:45:26.918 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:45:26.922 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:45:26.925 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:45:26.927 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:45:26.929 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:45:26.931 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:45:26.933 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:45:40.684 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:45:44.948 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:45:44.950 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:45:44.951 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:45:44.953 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:45:44.955 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:45:44.956 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:45:44.958 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:45:51.100 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:45:51.102 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:45:51.104 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:45:51.106 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:45:51.108 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:45:51.110 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:45:51.112 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:46:05.544 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:46:08.991 DEBUG] (\V4.1\jarvis.js:141:12): 0
+[02/06/2022 - 23:46:08.992 DEBUG] (\V4.1\jarvis.js:143:12): 0.5
+[02/06/2022 - 23:46:08.995 DEBUG] (\V4.1\jarvis.js:146:16): 1
+[02/06/2022 - 23:46:08.996 DEBUG] (\V4.1\jarvis.js:148:20): 2
+[02/06/2022 - 23:46:08.998 DEBUG] (\V4.1\jarvis.js:150:24): 3
+[02/06/2022 - 23:46:09.000 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:46:09.003 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[02/06/2022 - 23:46:13.185 DEBUG] (\V4.1\jarvis.js:141:12): 0
+[02/06/2022 - 23:46:21.394 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:46:24.869 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:46:30.932 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:46:30.933 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:46:30.935 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:46:30.937 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:46:30.939 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:46:30.941 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:46:30.943 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[02/06/2022 - 23:46:45.590 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:46:49.512 DEBUG] (\V4.1\jarvis.js:148:12): 0
+[02/06/2022 - 23:46:49.514 DEBUG] (\V4.1\jarvis.js:150:12): 0.5
+[02/06/2022 - 23:46:49.516 DEBUG] (\V4.1\jarvis.js:153:16): 1
+[02/06/2022 - 23:46:49.517 DEBUG] (\V4.1\jarvis.js:155:20): 2
+[02/06/2022 - 23:46:53.368 DEBUG] (\V4.1\jarvis.js:148:12): 0
+[02/06/2022 - 23:46:53.370 DEBUG] (\V4.1\jarvis.js:150:12): 0.5
+[02/06/2022 - 23:46:58.723 DEBUG] (\V4.1\jarvis.js:148:12): 0
+[02/06/2022 - 23:46:58.724 DEBUG] (\V4.1\jarvis.js:150:12): 0.5
+[02/06/2022 - 23:47:04.600 DEBUG] (\V4.1\jarvis.js:148:12): 0
+[02/06/2022 - 23:47:04.601 DEBUG] (\V4.1\jarvis.js:150:12): 0.5
+[02/06/2022 - 23:47:04.603 DEBUG] (\V4.1\jarvis.js:153:16): 1
+[02/06/2022 - 23:47:04.605 DEBUG] (\V4.1\jarvis.js:155:20): 2
+[02/06/2022 - 23:47:04.606 DEBUG] (\V4.1\jarvis.js:157:24): 3
+[02/06/2022 - 23:47:04.608 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:47:04.610 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:47:30.574 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:47:34.146 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:47:34.148 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:47:34.150 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:47:34.152 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:47:34.154 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:47:34.156 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:47:34.158 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:47:37.426 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:47:43.629 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:47:47.435 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:47:47.437 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:47:47.439 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:47:47.440 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:47:47.442 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:47:47.444 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:47:47.446 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[02/06/2022 - 23:47:50.216 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:47:54.955 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[02/06/2022 - 23:47:55.013 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:47:57.547 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:47:57.550 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:47:57.553 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:47:57.556 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:47:57.558 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:47:57.561 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:47:57.564 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[02/06/2022 - 23:48:01.517 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:48:16.214 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:48:20.531 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:48:25.836 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:48:57.533 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:49:09.045 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:49:13.136 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:50:16.219 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:50:29.460 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:50:50.804 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:50:50.805 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:50:50.807 DEBUG] (\V4.1\jarvis.js:145:16): 1
+[02/06/2022 - 23:50:50.809 DEBUG] (\V4.1\jarvis.js:147:20): 2
+[02/06/2022 - 23:50:50.811 DEBUG] (\V4.1\jarvis.js:149:24): 3
+[02/06/2022 - 23:50:50.813 LOG] (\V4.1\jarvis.js:10:12): [Jarvis.js LOG]: ,Passage de l'ordinateur en mode veille.
+[02/06/2022 - 23:50:50.815 DEBUG] (\V4.1\jarvis.js:98:12): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[02/06/2022 - 23:51:06.437 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:51:08.149 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:51:10.140 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:51:16.811 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:51:26.872 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:51:34.875 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:51:42.899 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:51:51.807 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:52:08.426 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:52:17.221 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:52:19.252 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:52:26.346 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:52:26.348 DEBUG] (\V4.1\jarvis.js:142:12): 0.5
+[02/06/2022 - 23:52:37.866 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:53:00.242 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:53:25.191 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:53:34.170 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:53:47.796 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:53:52.404 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:53:57.598 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:54:10.579 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:54:22.346 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:54:31.404 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:54:34.871 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:54:45.427 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:54:57.271 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:55:04.805 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:55:08.830 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:55:11.385 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:55:32.431 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:55:38.277 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:55:54.672 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:56:24.826 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:56:29.106 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:56:33.373 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:56:42.097 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:56:50.174 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:56:58.100 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:57:06.959 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:57:35.605 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:58:13.810 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:58:36.839 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:58:40.763 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:58:47.627 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:58:54.104 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:59:00.749 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:59:05.984 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:59:52.896 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[02/06/2022 - 23:59:55.712 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:00:06.499 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:00:12.583 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:00:14.555 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:00:36.525 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:00:39.170 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:00:55.097 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:01:02.223 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:01:18.443 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:01:24.032 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:01:33.163 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:01:39.661 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:01:43.416 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:02:16.039 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:02:43.882 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:03:36.374 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:03:47.172 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:03:52.484 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:04:15.971 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:04:25.572 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:04:32.201 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:04:36.287 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:09.515 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:11.506 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:17.510 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:21.647 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:26.893 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:45.673 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:50.221 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:05:57.885 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:06:00.862 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:06:04.237 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:06:06.682 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:06:15.259 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:06:29.378 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:07:10.645 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:07:16.313 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:07:28.970 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:07:39.948 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:08:05.722 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:08:39.490 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:08:44.771 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:08:49.171 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:08:51.521 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:08:58.720 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:09:06.869 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:09:12.753 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:09:16.234 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:09:30.177 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:09:35.350 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:09:57.885 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:02.527 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:09.833 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:13.548 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:18.975 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:27.324 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:38.655 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:48.811 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:53.812 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:56.620 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:10:58.417 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:11:03.345 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 00:11:08.637 DEBUG] (\V4.1\jarvis.js:140:12): 0
+[03/06/2022 - 13:38:47.582 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:39:02.738 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:39:38.855 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:41:33.352 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:42:27.344 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:46:39.697 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:46:50.161 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:47:28.027 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:55:46.207 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 13:55:54.989 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:00:00.198 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:03:29.355 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:03:47.689 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:04:51.840 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:05:20.378 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:06:51.124 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:07:24.862 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:09:19.594 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:11:04.248 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:12:28.716 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:13:46.513 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:16:15.411 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:16:56.864 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:17:41.662 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:17:55.417 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:18:34.415 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:18:56.019 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:19:39.220 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:30:46.849 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:32:45.677 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:34:02.699 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:35:22.671 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:35:44.006 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:37:16.572 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:38:21.718 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:42:41.884 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:43:01.695 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:43:27.832 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:44:10.817 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:44:24.924 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:46:35.920 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:46:48.548 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:46:57.014 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:47:51.618 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:48:48.376 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:50:59.636 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:51:49.076 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:51:58.612 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:53:34.521 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:53:45.900 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:54:09.324 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:54:19.497 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:54:38.619 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 14:54:59.619 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:00:11.199 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:00:50.146 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:01:25.266 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:02:20.572 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:02:32.591 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:02:51.743 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:03:02.097 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:03:35.737 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:04:09.218 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:04:13.400 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:04:22.724 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:04:33.290 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:04:40.209 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:05:11.958 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:07:13.869 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:13:07.169 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:13:22.829 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:16:14.742 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:19:23.406 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:19:30.871 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:19:45.126 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:20:35.374 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:21:15.159 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:23:03.006 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:23:50.401 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 15:24:08.011 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:16:57.304 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:17:11.037 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:17:39.275 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:17:44.371 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:17:50.281 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:46:31.557 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:50:57.019 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:51:30.956 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 16:51:47.577 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 17:03:06.891 LOG] (\V4.1\jarvis.js:11:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 17:37:17.222 LOG] (\V4.1\jarvis.js:12:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 17:39:00.585 LOG] (\V4.1\jarvis.js:12:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 17:42:29.378 LOG] (\V4.1\jarvis.js:12:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 17:43:06.494 LOG] (\V4.1\jarvis.js:12:12): [Jarvis.js LOG]: ,Init(),[object Object]
+[03/06/2022 - 18:25:49.679 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]: ,recognizing..
+[03/06/2022 - 18:26:25.410 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]: ,recognizing..
+[03/06/2022 - 18:26:57.530 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]: ,recognizing..
+[03/06/2022 - 18:27:34.621 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:27:58.403 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:27:58.405 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,
+[03/06/2022 - 18:28:25.335 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:28:25.337 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,0
+[03/06/2022 - 18:28:25.346 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:28:25.348 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,0
+[03/06/2022 - 18:28:52.647 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:28:52.649 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,0
+[03/06/2022 - 18:29:11.858 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:29:11.859 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:29:17.107 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:29:17.109 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:29:23.956 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:29:23.958 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:29:26.095 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:29:26.098 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:29:29.961 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:29:29.962 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:29:41.980 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:29:41.982 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:29:46.388 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:29:46.390 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:30:06.796 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:30:06.798 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:30:06.801 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:30:15.993 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:30:15.996 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:30:15.999 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:30:24.485 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:30:24.488 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:30:24.491 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:30:29.311 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:30:29.313 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:30:29.315 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:30:35.709 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:30:35.711 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:30:35.713 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:30:45.386 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:30:45.389 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:30:45.393 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:31:07.988 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:31:07.990 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:31:07.992 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,text:,Jarvis mets l'ordinateur en veille
+[03/06/2022 - 18:31:07.994 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:31:38.908 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:31:38.910 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:31:38.913 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:31:38.915 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:31:43.139 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:31:43.142 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:31:43.145 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:31:43.148 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:32:23.559 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:32:23.561 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:32:23.564 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:32:23.567 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:32:27.102 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:32:27.104 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:32:27.106 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:32:27.108 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:32:41.803 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:32:41.806 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:32:41.807 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:32:41.809 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:33:09.734 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:33:09.736 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:33:09.739 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:33:09.741 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:33:18.375 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:33:18.377 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:33:18.956 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:33:18.957 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:33:23.234 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:33:23.235 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:33:57.773 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:33:57.775 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:33:57.779 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:34:05.935 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:34:05.937 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:34:05.939 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:34:32.530 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:34:32.531 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:34:32.534 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:34:32.536 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:34:32.539 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:34:32.541 DEBUG] (\V4.1\jarvis.js:325:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 18:34:40.154 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:34:40.159 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:34:40.162 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:34:40.164 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:34:40.168 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:34:40.170 DEBUG] (\V4.1\jarvis.js:325:12): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 18:35:05.674 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:35:05.676 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:35:05.680 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:35:05.682 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:35:05.685 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:35:05.688 DEBUG] (\V4.1\jarvis.js:325:12): [TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[03/06/2022 - 18:35:31.211 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:35:31.213 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:35:31.217 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:35:31.219 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:35:31.221 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:35:31.223 DEBUG] (\V4.1\jarvis.js:224:16): [TTS()] > list of 8 items. Saying: L'ordinateur entre en veille
+[03/06/2022 - 18:35:37.262 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:35:37.264 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:35:37.266 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:35:37.268 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:35:37.271 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:35:37.272 DEBUG] (\V4.1\jarvis.js:224:16): [TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[03/06/2022 - 18:36:10.566 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:36:10.569 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:36:10.572 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:36:10.574 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:36:10.577 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:36:10.580 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 18:36:15.671 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:36:15.674 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:36:15.677 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:36:15.679 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:36:15.682 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:36:15.684 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 18:37:31.482 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:37:31.485 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:37:31.489 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:37:31.492 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:37:31.495 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:37:31.497 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 18:37:44.099 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:37:44.102 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:37:44.106 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:37:44.109 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:37:44.111 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:37:44.114 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[03/06/2022 - 18:37:48.486 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:37:48.489 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:37:48.493 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:37:48.495 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:37:48.503 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:37:48.506 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Passage de l'ordinateur en mode veille
+[03/06/2022 - 18:37:50.694 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:37:50.695 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:37:50.697 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:37:50.699 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:37:50.701 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:37:50.703 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 18:37:57.173 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:37:57.175 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:37:57.177 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:37:57.179 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:37:57.181 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:37:57.183 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:38:00.377 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:00.378 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:00.381 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:00.383 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:00.385 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:00.387 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 18:38:06.787 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:06.788 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:06.790 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:06.792 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:06.794 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:06.796 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 18:38:10.328 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:10.329 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:10.331 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:10.333 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:10.335 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:10.338 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 18:38:13.781 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:13.783 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:13.785 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:13.787 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:13.790 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:13.792 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 18:38:17.301 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:17.304 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:17.306 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:17.308 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:17.311 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:17.313 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 18:38:20.597 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:20.600 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:20.604 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:20.608 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:20.611 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:20.613 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 18:38:24.202 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:24.205 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:24.209 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:24.212 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:24.215 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:24.218 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 18:38:27.679 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:27.680 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:27.682 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:27.684 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:27.686 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:27.688 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 18:38:31.195 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:31.198 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:31.202 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:31.204 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:31.208 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:31.210 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:38:34.482 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:34.484 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:34.485 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:34.487 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:34.489 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:34.492 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:38:37.687 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:37.688 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:37.691 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:37.693 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:37.694 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:37.697 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:38:40.997 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:40.999 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:41.001 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:41.003 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:41.006 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:41.008 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 18:38:44.512 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:44.515 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:44.518 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:44.520 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:44.522 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:44.524 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:38:47.792 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:47.794 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:47.796 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:47.799 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:47.801 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:47.803 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:38:50.999 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:51.001 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:51.003 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:51.005 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:51.007 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:51.009 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:38:54.509 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:54.512 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:54.516 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:54.519 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:54.522 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:54.524 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 18:38:57.899 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:38:57.903 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:38:57.906 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:38:57.909 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:38:57.912 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:38:57.914 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: L'ordinateur entre en veille
+[03/06/2022 - 18:39:01.124 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:39:01.128 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:39:01.131 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:39:01.134 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:39:01.137 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:39:01.139 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 18:39:04.589 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:39:04.591 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:39:04.593 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:39:04.594 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:39:04.596 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:39:04.598 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 18:39:07.896 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 18:39:07.897 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 18:39:07.899 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 18:39:07.901 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 18:39:07.903 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 18:39:07.904 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:01:50.472 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:01:50.475 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:01:50.481 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:01:50.483 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:01:50.485 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:01:50.487 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:01:54.474 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:01:54.476 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:01:54.479 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:01:54.481 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:01:54.484 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:01:54.486 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:01:58.966 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:01:58.968 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:01:58.972 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:01:58.974 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:01:58.977 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:01:58.979 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:02:02.414 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:02:02.417 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:02:02.419 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:02:02.421 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:02:02.423 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:02:02.425 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:02:06.075 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:02:06.077 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:02:06.080 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:02:06.082 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:02:06.084 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:02:06.086 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:02:09.563 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:02:09.564 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:02:09.566 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:02:09.567 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:02:09.569 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:02:09.571 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 19:02:13.079 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:02:13.081 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:02:13.083 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:02:13.086 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:02:13.089 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:02:13.091 DEBUG] (\V4.1\jarvis.js:223:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:04:02.561 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:04:02.563 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:04:02.565 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:04:02.568 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:04:02.570 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:04:02.572 DEBUG] (\V4.1\jarvis.js:225:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:04:50.800 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:04:50.802 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:04:50.805 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:04:50.808 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:04:50.811 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:04:50.814 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:04:50.817 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:04:50.819 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:05:00.698 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:00.701 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:00.704 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:00.708 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:00.711 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:00.714 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:00.716 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:00.718 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:05:07.985 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:07.988 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:07.991 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:07.994 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:07.997 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:08.000 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:08.002 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:08.004 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:05:11.481 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:11.483 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:11.486 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:11.489 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:11.493 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:11.495 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:11.497 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:11.499 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:05:14.985 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:14.988 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:14.990 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:14.994 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:14.997 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:15.000 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:15.001 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:15.003 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:05:18.467 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:18.469 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:18.472 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:18.475 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:18.479 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:18.482 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:18.484 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:18.486 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:05:21.802 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:21.804 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:21.806 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:21.809 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:21.812 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:21.815 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:21.817 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:21.820 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:05:25.370 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:25.371 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:25.373 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:25.375 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:25.378 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:25.381 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:25.383 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:25.385 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:05:28.783 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:28.785 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:28.788 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:28.792 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:28.795 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:28.798 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:28.800 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:28.802 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:05:38.374 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:38.376 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:38.378 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:38.382 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:38.385 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:38.388 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:38.390 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:38.391 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:05:41.833 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:41.834 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:41.836 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:41.839 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:41.842 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:41.844 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:41.846 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:41.848 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:05:45.343 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:45.345 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:45.348 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:45.351 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:45.354 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:45.357 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:45.359 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:45.360 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:05:48.832 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:48.833 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:48.835 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:48.838 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:48.841 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:48.844 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:48.846 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:48.848 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:05:52.337 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:52.339 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:52.341 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:52.344 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:52.347 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:52.349 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:52.351 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:52.353 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:05:55.845 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:55.847 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:55.848 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:55.851 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:55.854 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:55.856 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:55.858 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:55.860 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:05:59.474 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:05:59.477 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:05:59.479 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:59.484 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:59.487 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:05:59.490 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:05:59.492 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:05:59.494 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:06:02.742 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:02.744 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:02.746 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:02.748 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:02.751 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:02.753 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:02.756 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:02.758 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:06:06.152 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:06.155 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:06.158 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:06.161 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:06.164 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:06.167 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:06.169 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:06.171 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:06:09.748 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:09.750 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:09.752 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:09.756 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:09.758 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:09.761 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:09.764 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:09.765 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 19:06:13.254 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:13.256 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:13.259 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:13.263 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:13.266 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:13.269 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:13.271 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:13.273 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:06:16.850 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:16.852 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:16.854 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:16.856 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:16.859 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:16.861 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:16.863 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:16.865 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:06:21.834 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:21.836 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:21.838 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:21.841 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:21.844 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:21.847 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:21.849 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:21.857 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[03/06/2022 - 19:06:25.358 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:25.360 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:25.362 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:25.365 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:25.368 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:25.371 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:25.373 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:25.375 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:06:28.842 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:28.843 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:28.845 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:28.848 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:28.851 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:28.853 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:28.856 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:28.857 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:06:31.912 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:31.915 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:31.920 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:31.924 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:31.928 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:31.932 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:31.934 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:31.936 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: L'ordinateur entre en veille
+[03/06/2022 - 19:06:35.193 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:06:35.195 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:06:35.198 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:35.201 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:35.204 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:06:35.207 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:06:35.209 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:06:35.211 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: L'ordinateur entre en veille
+[03/06/2022 - 19:07:39.136 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:07:39.138 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:07:39.140 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:07:39.143 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:07:39.147 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:07:39.149 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:07:39.151 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:07:39.153 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:07:42.450 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:07:42.451 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:07:42.453 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:07:42.455 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:07:42.458 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:07:42.460 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:07:42.461 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:07:42.463 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 19:08:15.533 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:08:15.535 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:08:15.539 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:08:15.543 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:08:15.547 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:08:15.549 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:08:15.552 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:08:15.554 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:11:42.538 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:11:42.540 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:11:42.543 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:42.548 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:42.554 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:42.560 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:11:42.562 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:11:42.565 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:11:46.064 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:11:46.066 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:11:46.069 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:46.076 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:46.081 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:46.086 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:11:46.088 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:11:46.090 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:11:49.648 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:11:49.650 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:11:49.654 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:49.659 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:49.663 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:49.668 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:11:49.671 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:11:49.674 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:11:53.150 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:11:53.152 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:11:53.155 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:53.161 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:53.166 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:53.171 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:11:53.174 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:11:53.176 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:11:56.647 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:11:56.651 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:11:56.654 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:56.665 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:56.675 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:11:56.684 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:11:56.687 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:11:56.689 DEBUG] (\V4.1\jarvis.js:228:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 19:12:00.147 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,recognizing..
+[03/06/2022 - 19:12:00.151 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:12:00.157 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:12:00.169 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:12:00.177 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:12:00.185 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:12:00.191 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:12:00.196 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:12:00.200 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:12:00.205 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:12:00.208 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:13:28.977 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:13:28.979 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:13:28.984 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:13:28.988 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:13:28.993 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:13:28.995 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:13:28.996 DEBUG] (\V4.1\jarvis.js:230:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:13:54.839 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:13:54.841 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:13:54.845 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:13:54.850 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:13:54.855 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:13:54.857 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:13:54.859 DEBUG] (\V4.1\jarvis.js:230:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:14:18.919 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:14:18.922 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:18.929 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:18.935 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:18.940 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:18.944 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:18.949 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:18.954 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:18.959 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:14:18.961 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:14:27.647 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:14:27.650 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:27.657 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:27.663 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:27.668 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:27.673 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:27.677 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:27.682 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:27.686 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:14:27.688 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:14:34.213 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:14:34.215 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:34.219 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:34.223 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:34.227 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:14:34.229 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:14:34.231 DEBUG] (\V4.1\jarvis.js:230:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:14:51.178 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:14:51.182 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:51.189 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:51.195 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:51.199 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:51.204 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:51.213 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:51.218 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:14:51.224 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:14:51.226 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:15:19.765 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:15:19.769 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:19.773 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:19.777 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:19.781 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:19.784 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:19.787 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:19.790 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:19.793 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:15:19.795 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:15:28.934 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:15:28.937 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:28.940 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:28.944 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:15:28.947 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:15:28.949 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:15:28.951 DEBUG] (\V4.1\jarvis.js:230:16): [TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[03/06/2022 - 19:17:38.057 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:17:38.060 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:38.064 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:38.067 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:38.070 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:38.073 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:38.076 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:38.078 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:38.081 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:17:38.082 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:17:45.233 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:17:45.234 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:45.237 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:45.240 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:45.242 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:45.245 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:45.247 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:45.249 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:45.252 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:17:45.254 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:17:49.884 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:17:49.886 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:49.889 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:49.893 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:49.896 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:49.899 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:49.902 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:49.904 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:49.907 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:17:49.909 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:17:54.118 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:17:54.122 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:54.126 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:54.129 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:54.133 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:54.136 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:54.140 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:54.143 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:54.149 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:17:54.151 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:17:57.403 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:17:57.404 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:57.407 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:57.409 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:17:57.412 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:17:57.414 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:17:57.415 DEBUG] (\V4.1\jarvis.js:230:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:21:06.542 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:21:06.546 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:21:06.549 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:21:06.553 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:21:06.555 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:21:06.558 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:21:06.559 DEBUG] (\V4.1\jarvis.js:230:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:22:21.866 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:22:21.868 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.871 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.874 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.877 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.879 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.882 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.885 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.887 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.890 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.893 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.897 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:21.901 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:22:21.903 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:22:25.749 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:22:25.751 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:25.753 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:25.756 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:25.758 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:25.761 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:25.763 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:25.765 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:22:25.768 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:22:25.770 LOG] (\V4.1\jarvis.js:16:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:22:25.772 DEBUG] (\V4.1\jarvis.js:230:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:23:58.511 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:23:58.514 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:23:58.517 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:23:58.520 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:23:58.524 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:23:58.527 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:23:58.530 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:23:58.532 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:23:58.535 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:23:58.537 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:23:58.539 DEBUG] (\V4.1\jarvis.js:232:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:24:48.265 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:24:48.268 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.270 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.273 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.276 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.279 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.282 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.285 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.287 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.290 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.293 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.296 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:48.299 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:24:48.301 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:24:54.383 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:24:54.385 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:54.387 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:54.390 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:54.397 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:54.400 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:54.403 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:54.407 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:24:54.409 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:24:54.412 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:24:54.414 DEBUG] (\V4.1\jarvis.js:232:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 19:25:01.280 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:25:01.282 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:01.286 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:01.289 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:01.291 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:01.294 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:01.297 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:01.300 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:01.303 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:25:01.305 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:25:01.306 DEBUG] (\V4.1\jarvis.js:232:16): [TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 19:25:28.911 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:25:28.915 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.918 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.923 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.926 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.929 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.931 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.934 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.937 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.940 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.943 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.946 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:28.948 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:25:28.950 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:25:37.599 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:25:37.601 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:37.604 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:37.606 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:37.609 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:37.612 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:37.615 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:37.618 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:25:37.622 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:25:37.624 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:25:37.626 DEBUG] (\V4.1\jarvis.js:232:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:26:25.173 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:26:25.175 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:26:25.178 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:26:25.180 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:26:25.183 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:26:25.186 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:26:25.188 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:26:25.190 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:26:25.193 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:26:25.195 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:26:25.197 DEBUG] (\V4.1\jarvis.js:232:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:40:26.497 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:40:26.502 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:40:26.507 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:40:26.511 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:40:26.515 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:40:26.519 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:40:26.522 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:40:26.525 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:40:26.528 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:40:26.530 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:40:26.532 DEBUG] (\V4.1\jarvis.js:232:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 19:41:00.192 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:41:00.195 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.198 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.201 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.204 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.206 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.209 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.212 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.215 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.218 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.221 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.224 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:00.227 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:41:00.230 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:41:04.397 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:41:04.400 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:04.404 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:04.407 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:04.409 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:04.413 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:04.418 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:04.423 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:04.427 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:41:04.429 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:41:04.432 DEBUG] (\V4.1\jarvis.js:232:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 19:41:07.602 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:41:07.605 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.609 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.613 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.616 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.619 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.622 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.625 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.627 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.630 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.652 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.655 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:07.664 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:41:07.666 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:41:12.515 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:41:12.519 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.525 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.529 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.533 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.536 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.540 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.543 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.546 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.549 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.552 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.555 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:41:12.557 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:41:12.559 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:43:00.701 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:43:00.703 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:00.706 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:00.709 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:00.712 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:00.715 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:00.718 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:00.720 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:00.723 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:43:00.725 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:43:00.728 DEBUG] (\V4.1\jarvis.js:245:16): [TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[03/06/2022 - 19:43:33.297 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:43:33.300 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:33.303 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:33.307 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:33.310 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:33.313 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:33.316 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:33.319 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:43:33.322 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:43:33.325 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:43:33.327 DEBUG] (\V4.1\jarvis.js:245:16): [TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 19:46:07.083 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:46:07.088 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.093 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.097 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.101 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.104 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.107 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.110 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.114 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.116 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:46:07.120 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:46:07.122 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:46:07.124 DEBUG] (\V4.1\jarvis.js:245:16): [TTS()] > list of 6 items. Saying: j'éteins l'ordinateur
+[03/06/2022 - 19:48:26.852 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 19:48:26.854 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:48:26.856 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:48:26.859 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:48:26.862 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 19:48:26.865 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 19:48:26.867 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 19:48:26.868 DEBUG] (\V4.1\jarvis.js:245:16): [TTS()] > list of 4 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 20:22:42.200 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 20:22:42.203 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 20:22:42.206 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 20:22:42.209 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 20:22:42.212 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 20:22:42.215 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 20:22:42.217 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 20:22:42.220 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 20:22:42.223 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 20:22:42.225 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 20:22:42.228 DEBUG] (\V4.1\jarvis.js:245:16): [TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 21:03:01.488 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 21:03:01.491 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.494 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.497 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.500 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.504 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.507 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.510 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.513 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.515 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.518 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.520 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:01.523 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 21:03:01.524 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 21:03:18.281 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 21:03:18.283 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.286 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.288 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.291 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.294 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.296 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.299 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.302 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.304 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.308 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.310 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:18.313 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 21:03:18.314 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 21:03:20.665 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 21:03:20.667 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.670 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.673 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.676 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.679 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.682 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.684 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.687 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.689 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.692 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.694 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:20.697 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 21:03:20.699 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 21:03:28.725 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,Trying to execute:,[object Object]
+[03/06/2022 - 21:03:28.729 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.733 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.736 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.740 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.743 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.746 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.749 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.752 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.755 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.757 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.760 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,configNeeded:,[object Object]
+[03/06/2022 - 21:03:28.763 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,tested:,[object Object]
+[03/06/2022 - 21:03:28.764 LOG] (\V4.1\jarvis.js:17:12): [Jarvis.js LOG]:,executed:,[object Object]
+[03/06/2022 - 21:54:48.607 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,test manager OK

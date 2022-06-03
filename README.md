@@ -1,2 +1,8 @@
-# virtual-voice-assistant
-Based on the principe of the AI "Jarvis" in Iron man.
+
+
+
+**Installation**
+I dont know lol just run the index.js
+
+**Hmm**
+What is a reame.md file actually supposed to deal with?

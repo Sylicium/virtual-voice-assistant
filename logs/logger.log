@@ -1,0 +1,1698 @@
+File created on 03/06/2022 at 21:56:47.518
+
+[03/06/2022 - 21:56:47.521 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 21:56:47.526 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 21:56:47.527 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 21:56:47.939 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 21:56:48.324 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,test manager OK
+[03/06/2022 - 21:56:48.657 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 21:56:48.752 LOG] (\V4.1\server.js:104:16): [sock][+] [Kj1mkEgXGVjPuy4MAAAB] Connected.
+[03/06/2022 - 21:56:50.668 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 21:56:50.677 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 21:56:50.680 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 21:56:50.683 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 21:56:50.686 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 21:57:27.767 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 21:57:27.776 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 21:57:27.777 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 21:57:28.248 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 21:57:28.668 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,test manager OK
+[03/06/2022 - 21:57:28.999 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 21:57:29.071 LOG] (\V4.1\server.js:104:16): [sock][+] [VH83FHhYbQbHvZV6AAAB] Connected.
+[03/06/2022 - 21:57:31.011 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 21:57:31.012 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 21:57:31.014 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 21:57:31.015 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 21:57:31.016 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 21:57:40.929 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 21:57:40.935 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 21:57:40.936 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 21:57:41.388 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 21:57:41.828 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 21:57:42.144 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 21:57:42.274 LOG] (\V4.1\server.js:104:16): [sock][+] [-92VB7agJ_yoyPHSAAAB] Connected.
+[03/06/2022 - 21:57:44.154 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 21:57:44.158 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 21:57:44.161 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 21:57:44.164 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 21:57:44.167 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 22:00:18.711 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 22:00:18.719 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 22:00:18.720 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 22:00:19.219 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 22:00:19.629 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 22:00:19.655 DEBUG] (\localModules\windowsTrayMenu.js:57:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),c:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 22:00:20.030 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 22:00:20.104 LOG] (\V4.1\server.js:104:16): [sock][+] [wW5M08NarLIWbs0bAAAB] Connected.
+[03/06/2022 - 22:00:20.803 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:21.810 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:22.044 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 22:00:22.046 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 22:00:22.047 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 22:00:22.049 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 22:00:22.050 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 22:00:22.812 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:23.822 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:24.832 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:25.833 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:26.837 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:27.842 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:28.858 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:29.862 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:30.864 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:31.876 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:32.888 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:33.899 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:34.905 DEBUG] (\localModules\windowsTrayMenu.js:103:9): In background
+[03/06/2022 - 22:00:36.245 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 22:00:36.251 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 22:00:36.253 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 22:00:36.651 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 22:00:37.034 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 22:00:37.058 DEBUG] (\localModules\windowsTrayMenu.js:57:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),c:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 22:00:37.330 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 22:00:37.522 LOG] (\V4.1\server.js:104:16): [sock][+] [KCvsuWZzMTNjt9_ZAAAB] Connected.
+[03/06/2022 - 22:00:39.345 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 22:00:39.349 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 22:00:39.353 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 22:00:39.357 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 22:00:39.360 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 22:02:48.840 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=service%20client
+[03/06/2022 - 22:02:48.846 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:02:58.492 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 22:02:58.501 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 22:02:58.502 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 22:02:58.783 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 22:02:59.037 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 22:02:59.064 DEBUG] (\localModules\windowsTrayMenu.js:57:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 22:02:59.342 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:02:59.362 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 22:02:59.363 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 22:02:59.364 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:02:59.590 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27ai%20envie%20tu%20es%20l%C3%A0
+[03/06/2022 - 22:02:59.592 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:03:17.220 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 22:03:17.230 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 22:03:17.231 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 22:03:17.459 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 22:03:17.740 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 22:03:17.755 DEBUG] (\localModules\windowsTrayMenu.js:57:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 22:03:17.997 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 22:03:18.945 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:03:18.983 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 22:03:18.984 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 22:03:18.985 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:03:21.147 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 22:03:21.160 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 22:03:21.161 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 22:03:21.378 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 22:03:21.583 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 22:03:21.596 DEBUG] (\localModules\windowsTrayMenu.js:57:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 22:03:21.814 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 22:03:21.844 LOG] (\V4.1\server.js:104:16): [sock][+] [0OHeg9b0xCq0w9OBAAAB] Connected.
+[03/06/2022 - 22:03:23.825 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 22:03:23.827 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 22:03:23.829 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 22:03:23.830 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 22:03:23.830 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 22:03:28.083 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20quelle%20heure%20est-il
+[03/06/2022 - 22:03:28.085 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:03:28.087 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:03:28.093 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.105 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.117 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.119 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.122 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.124 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.135 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.143 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.145 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.148 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.151 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:28.152 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:03:28.154 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:03:47.690 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:03:47.692 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:03:47.694 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:03:47.700 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:47.703 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:47.706 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:47.708 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:47.710 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:47.721 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:47.732 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:03:47.734 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:03:47.739 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:03:47.741 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 22:04:39.054 DEBUG] (\localModules\windowsTrayMenu.js:73:10): error:,
+[03/06/2022 - 22:04:39.055 DEBUG] (\localModules\windowsTrayMenu.js:74:10): result:,5
+[03/06/2022 - 22:04:39.064 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:04:39.098 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 22:04:39.099 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 22:04:39.100 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:04:59.960 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 22:04:59.972 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 22:04:59.973 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 22:05:00.198 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 22:05:00.386 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 22:05:00.401 DEBUG] (\localModules\windowsTrayMenu.js:57:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 22:05:00.632 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 22:05:00.746 LOG] (\V4.1\server.js:104:16): [sock][+] [8CMAZi7Rv2YEt-X-AAAB] Connected.
+[03/06/2022 - 22:05:02.638 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 22:05:02.641 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 22:05:02.643 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 22:05:02.646 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 22:05:02.648 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 22:05:04.236 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=le%20volume
+[03/06/2022 - 22:05:04.238 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:05:37.035 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=provocatrice
+[03/06/2022 - 22:05:37.045 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:05:56.974 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:05:56.976 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:05:56.979 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:05:56.988 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:05:56.992 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:05:56.995 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:05:56.998 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:05:57.008 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:05:57.011 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:05:57.014 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:05:57.016 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:05:57.027 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:05:57.029 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 22:06:30.156 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=exemple
+[03/06/2022 - 22:06:30.162 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:07:02.331 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=%C3%A0%20l%27%C3%A9coute
+[03/06/2022 - 22:07:02.333 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:07:09.580 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pompe%20team%20services%20mets-toi%20en%20veille
+[03/06/2022 - 22:07:09.582 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:07:14.875 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:07:14.877 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:07:14.880 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:07:14.888 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:07:14.891 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:07:14.900 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:07:14.903 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:07:14.905 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:07:14.908 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:07:14.916 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:07:14.918 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:07:14.920 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:07:14.923 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 22:07:18.364 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=je%20mets%20l%27ordinateur%20en%20mode%20veille
+[03/06/2022 - 22:07:18.366 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:08:24.477 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=radio
+[03/06/2022 - 22:08:24.479 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:08:27.742 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=radio
+[03/06/2022 - 22:08:27.745 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:08:50.925 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=chargement%20termin%C3%A9%20du%20module%20sauf
+[03/06/2022 - 22:08:50.926 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:08:53.984 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27arrive%20quelle%20heure%20est-il
+[03/06/2022 - 22:08:53.985 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:09:04.198 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20il%20est%20quelle%20heure%20il%20est%20quelle%20heure
+[03/06/2022 - 22:09:04.200 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:09:04.203 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:09:04.211 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.215 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.225 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.228 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.231 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.233 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.236 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.240 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.243 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.246 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.256 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:04.258 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:09:04.260 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:09:08.236 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:09:08.239 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:09:08.241 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:09:08.251 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:08.259 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:08.262 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:08.264 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:08.272 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:08.275 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:08.278 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:08.280 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:09:08.283 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:09:08.290 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 22:09:14.277 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:09:14.279 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:09:14.281 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:09:14.291 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:14.294 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:14.296 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:14.305 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:14.308 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:14.310 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:14.313 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:09:14.321 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:09:14.323 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:09:14.325 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 22:09:20.115 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27ai%20envie%20s%27il%20est%20quelle%20heure
+[03/06/2022 - 22:09:20.117 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:09:41.299 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=de%20quelle%20heure%20%C3%A0%20quelle%20heure
+[03/06/2022 - 22:09:41.301 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:09:58.528 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=non
+[03/06/2022 - 22:09:58.532 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:10:50.518 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=c%27est%20pas
+[03/06/2022 - 22:10:50.520 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:10:53.173 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=qui%20sont%20les%20papas
+[03/06/2022 - 22:10:53.175 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:11:06.773 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tour%20de%20bras
+[03/06/2022 - 22:11:06.777 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:11:23.687 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=non%20non%20non%20non%20non%20non%20non%20non
+[03/06/2022 - 22:11:23.692 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:11:26.577 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=mettre
+[03/06/2022 - 22:11:26.579 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:11:43.545 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=ici-bas
+[03/06/2022 - 22:11:43.547 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:11:46.592 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=qui%20sont%20les%20papas
+[03/06/2022 - 22:11:46.594 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:12:52.607 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tu%20es%20papa
+[03/06/2022 - 22:12:52.609 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:13:20.791 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=papa
+[03/06/2022 - 22:13:20.792 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:14:18.417 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jean%20tribu%20sans%20balance%20s%27est%20install%C3%A9%20dans%20du%20retard
+[03/06/2022 - 22:14:18.419 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:14:26.882 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=envie%20Loire%20passer
+[03/06/2022 - 22:14:26.884 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:14:33.722 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis
+[03/06/2022 - 22:14:33.727 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:14:33.729 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:14:33.737 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.739 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.741 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.743 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.752 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.755 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.757 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.760 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.767 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.771 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.773 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:33.775 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:14:33.776 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:14:36.608 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah
+[03/06/2022 - 22:14:36.613 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:14:36.615 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:14:36.622 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.624 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.628 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.637 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.639 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.642 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.645 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.653 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.655 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.658 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.660 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:36.671 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:14:36.672 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:14:38.735 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20tu%20es%20l%C3%A0
+[03/06/2022 - 22:14:38.736 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:14:38.744 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:14:38.750 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.752 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.762 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.764 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.767 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.775 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.778 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.781 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.789 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.792 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.795 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:38.798 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:14:38.799 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:14:41.723 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20quelle%20heure%20est-il
+[03/06/2022 - 22:14:41.725 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:14:41.728 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:14:41.737 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.741 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.744 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.747 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.756 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.760 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.763 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.765 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.768 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.772 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.774 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:14:41.776 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:14:41.778 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:15:02.862 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pharmacie
+[03/06/2022 - 22:15:02.864 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:05.738 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=service%20il%20est%20quelle%20heure
+[03/06/2022 - 22:15:05.741 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:09.738 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=service%20il%20est%20quelle%20heure
+[03/06/2022 - 22:15:09.740 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:15.223 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27arrive%20quelle%20heure%20est-il
+[03/06/2022 - 22:15:15.225 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:20.724 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=%C3%A7a%20va%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:15:20.726 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:27.735 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:15:27.737 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:27.740 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:15:27.747 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:15:27.750 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:15:27.754 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:15:27.756 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:15:27.758 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:15:27.767 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:15:27.771 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:15:27.773 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:15:27.775 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:15:27.777 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 22:15:37.122 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pas%20beau
+[03/06/2022 - 22:15:37.124 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:39.174 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=car%20Avenue
+[03/06/2022 - 22:15:39.176 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:41.560 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pas%20d%C3%A9%C3%A7u
+[03/06/2022 - 22:15:41.561 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:15:47.642 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Bonjour
+[03/06/2022 - 22:15:47.644 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:16:22.335 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=table%20fast
+[03/06/2022 - 22:16:22.341 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:16:24.582 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=sans%20fin
+[03/06/2022 - 22:16:24.583 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:16:29.444 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=bon%20r%C3%A9veillon
+[03/06/2022 - 22:16:29.452 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:08.190 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=caca%20prout
+[03/06/2022 - 22:18:08.193 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:11.405 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20caca%20prout
+[03/06/2022 - 22:18:11.408 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:11.411 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:18:11.417 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.419 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.422 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.424 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.427 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.430 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.439 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.441 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.444 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.452 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.455 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:11.457 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:18:11.460 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:18:15.503 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20test
+[03/06/2022 - 22:18:15.506 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:15.512 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:18:15.518 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.521 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.523 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.534 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.537 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.541 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.544 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.546 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.548 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.552 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.553 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:15.562 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:18:15.564 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:18:18.702 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20est-ce%20que%20%C3%A7a%20marche
+[03/06/2022 - 22:18:18.704 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:18.708 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:18:18.715 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.723 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.726 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.728 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.738 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.741 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.744 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.751 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.754 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.757 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.760 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:18.767 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:18:18.769 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:18:21.601 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20est-ce%20que%20%C3%A7a%20marche
+[03/06/2022 - 22:18:21.603 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:21.605 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:18:21.613 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.616 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.619 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.621 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.632 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.635 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.638 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.645 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.649 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.652 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.654 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:21.662 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:18:21.664 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:18:25.505 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20caca%20prout
+[03/06/2022 - 22:18:25.509 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:25.515 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:18:25.535 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.550 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.557 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.561 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.563 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.566 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.575 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.578 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.580 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.589 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.592 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:18:25.595 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:18:25.596 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:18:35.832 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=martyr
+[03/06/2022 - 22:18:35.834 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:38.555 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=parentalit%C3%A9
+[03/06/2022 - 22:18:38.557 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:18:54.835 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=d%C3%A9ranger
+[03/06/2022 - 22:18:54.842 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:19:06.695 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=m%C3%A2choire%20serr%C3%A9e
+[03/06/2022 - 22:19:06.702 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:20:28.534 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=the%20rain
+[03/06/2022 - 22:20:28.540 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:20:34.338 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=sensation
+[03/06/2022 - 22:20:34.341 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:20:37.140 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pour%20toujours
+[03/06/2022 - 22:20:37.141 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:20:39.836 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=le%20retour
+[03/06/2022 - 22:20:39.841 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:20:45.602 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=cap%20juste%20envie%20de%20mort
+[03/06/2022 - 22:20:45.604 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:22:31.376 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=action%20max
+[03/06/2022 - 22:22:31.379 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:24:36.694 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=watafak
+[03/06/2022 - 22:24:36.696 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:24:43.444 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=porte%20dans%20le%20ciel
+[03/06/2022 - 22:24:43.447 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:13.295 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=patate
+[03/06/2022 - 22:25:13.298 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:16.692 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=patate
+[03/06/2022 - 22:25:16.693 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:21.487 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27habite%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:25:21.490 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:25.894 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:25:25.896 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:25.898 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:25:25.905 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:25:25.908 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:25:25.912 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:25:25.914 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:25:25.917 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:25:25.926 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:25:25.929 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:25:25.934 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:25:25.936 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:25:25.939 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 22:25:32.483 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Friday%20tu%20es%20l%C3%A0%20tu%20es%20l%C3%A0
+[03/06/2022 - 22:25:32.485 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:35.703 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=palais
+[03/06/2022 - 22:25:35.704 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:38.827 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Friday%20est-ce%20que%20tu%20as
+[03/06/2022 - 22:25:38.835 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:45.261 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=prix%20des%20terrains
+[03/06/2022 - 22:25:45.267 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:49.076 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=il%20%C3%A9tait%20l%C3%A0
+[03/06/2022 - 22:25:49.083 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:25:57.795 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=jogging
+[03/06/2022 - 22:25:57.798 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:02.803 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sebastian
+[03/06/2022 - 22:26:02.806 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:06.893 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=S%C3%A9bastien
+[03/06/2022 - 22:26:06.901 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:28.613 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Altrad
+[03/06/2022 - 22:26:28.616 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:33.907 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[03/06/2022 - 22:26:33.910 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:37.189 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20tu%20es%20l%C3%A0
+[03/06/2022 - 22:26:37.192 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:41.003 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20red%C3%A9marre%20tout
+[03/06/2022 - 22:26:41.005 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:49.801 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=vol%20frites%20c%27est%20le%20miroir%20tout
+[03/06/2022 - 22:26:49.803 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:26:55.714 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Paul%20fried
+[03/06/2022 - 22:26:55.715 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:27:07.564 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20tu%20es%20l%C3%A0
+[03/06/2022 - 22:27:07.565 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:27:16.126 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20tu%20es%20l%C3%A0
+[03/06/2022 - 22:27:16.128 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:27:43.883 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[03/06/2022 - 22:27:43.901 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:28:36.843 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[03/06/2022 - 22:28:36.849 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:28:41.754 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20red%C3%A9marre%20toi
+[03/06/2022 - 22:28:41.756 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:28:46.538 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[03/06/2022 - 22:28:46.541 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:28:52.083 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfrid%20de%20red%C3%A9marrer%20l%27ordinateur
+[03/06/2022 - 22:28:52.084 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:29:01.959 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20red%C3%A9marre%20l%27ordinateur
+[03/06/2022 - 22:29:01.962 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:29:01.966 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:29:01.975 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:01.977 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:01.981 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:01.983 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:01.985 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:01.995 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:01.997 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:02.000 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:02.007 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:02.011 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:02.014 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:02.016 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:29:02.018 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:29:02.028 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 7 items. Saying: L'ordinateur redémarre
+[03/06/2022 - 22:29:09.082 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20red%C3%A9marre%20l%27ordinateur
+[03/06/2022 - 22:29:09.084 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:29:25.048 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20red%C3%A9marre
+[03/06/2022 - 22:29:25.050 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:29:25.052 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:29:25.060 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.062 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.065 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.067 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.076 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.079 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.081 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.083 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.092 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.096 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.098 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:25.105 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:29:25.107 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:29:29.352 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20red%C3%A9marre
+[03/06/2022 - 22:29:29.354 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:29:29.357 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:29:29.368 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.371 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.382 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.385 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.387 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.390 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.393 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.395 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.397 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.400 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.403 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:29.413 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:29:29.414 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:29:36.647 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20red%C3%A9marre
+[03/06/2022 - 22:29:36.651 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:29:36.653 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:29:36.664 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.669 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.682 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.684 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.686 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.689 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.691 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.693 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.695 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.698 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.701 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:36.710 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:29:36.712 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:29:41.285 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:29:41.294 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:29:41.297 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:29:41.305 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:41.314 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:41.316 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:41.319 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:41.321 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:41.329 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:41.333 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:29:41.335 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:29:41.337 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:29:41.344 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je passe l'ordinateur en veille
+[03/06/2022 - 22:29:59.567 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27ai%20envie%20Stella
+[03/06/2022 - 22:29:59.568 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:03.573 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27ai%20envie%20Stella
+[03/06/2022 - 22:30:03.575 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:07.460 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20tu%20es%20l%C3%A0
+[03/06/2022 - 22:30:07.462 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:07.465 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:30:07.473 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.476 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.480 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.490 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.493 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.495 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.504 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.507 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.509 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.519 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.521 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:07.524 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:30:07.526 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:30:10.554 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jean%20VI
+[03/06/2022 - 22:30:10.556 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:13.878 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=service%20il%20est%20quelle%20heure
+[03/06/2022 - 22:30:13.879 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:20.861 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20il%20est%20quelle%20heure
+[03/06/2022 - 22:30:20.864 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:20.867 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:30:20.876 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.878 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.882 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.884 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.893 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.895 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.898 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.900 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.904 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.906 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.909 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:20.912 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:30:20.913 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:30:25.767 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:30:25.769 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:25.773 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:30:25.778 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:25.780 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:25.783 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:25.785 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:25.788 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:25.798 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:25.801 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:25.803 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:30:25.805 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:30:25.807 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 22:30:38.396 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27ai%20envie%20c%27est%20de%20quelle%20heure%20il%20est%20quelle%20heure
+[03/06/2022 - 22:30:38.399 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:42.362 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:30:42.363 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:30:42.365 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:30:42.370 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:42.372 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:42.375 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:42.377 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:42.380 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:42.381 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:42.384 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:30:42.386 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:30:42.395 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:30:42.398 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Très bien, je le mets en veille
+[03/06/2022 - 22:30:48.314 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jean%20VI%20il%20est%20quelle%20heure
+[03/06/2022 - 22:30:48.318 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:31:46.884 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=r%C3%A9veil%20%C3%A0%209h
+[03/06/2022 - 22:31:46.885 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:32:03.437 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=vous%20avez
+[03/06/2022 - 22:32:03.441 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:33:49.641 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=violence
+[03/06/2022 - 22:33:49.642 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:34:17.668 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=primo
+[03/06/2022 - 22:34:17.670 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:34:34.127 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=fais%20un%20nouveau%20les%20devoirs%20alors%20on%20ne%20sommes%20pas%20du%20tout%20autant%20les%20mecs%20pris%20ensemble%20pour%20l%27atelier
+[03/06/2022 - 22:34:34.131 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:34:36.938 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=toujours%20sur%20sa%20route
+[03/06/2022 - 22:34:36.943 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:34:44.093 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=dans%20liste%20mes%20lentilles%20en%20veille
+[03/06/2022 - 22:34:44.099 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:34:47.763 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20m%C3%A9lodie%20en%20veille
+[03/06/2022 - 22:34:47.765 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:34:47.768 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:34:47.777 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.781 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.785 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.797 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.800 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.804 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.807 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.810 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.812 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.815 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.819 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:47.829 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:34:47.831 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:34:53.953 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:34:53.954 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:34:53.957 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:34:53.965 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:53.968 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:53.971 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:53.974 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:53.984 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:53.987 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:53.990 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:34:53.992 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:34:53.994 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:34:53.997 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 22:35:19.336 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tu%20es%20l%27a%C3%AEn%C3%A9%20relation
+[03/06/2022 - 22:35:19.338 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:35:26.109 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=au%20revoir%20%C3%A0%20jamais%20Annemasse%20%C3%A9teindre%20ordinateur%20en%20veille
+[03/06/2022 - 22:35:26.111 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:35:30.914 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:35:30.923 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:35:30.924 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:35:30.932 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:35:30.935 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:35:30.937 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:35:30.940 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:35:30.943 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:35:30.946 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:35:30.959 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:35:30.962 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:35:30.965 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:35:30.967 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[03/06/2022 - 22:36:25.816 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=th%C3%A9orie%20de%20bienveillant
+[03/06/2022 - 22:36:25.817 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:36:28.648 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pour%20r%C3%A9veiller
+[03/06/2022 - 22:36:28.653 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:37:10.088 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=r%C3%A9veiller
+[03/06/2022 - 22:37:10.091 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:40:59.563 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=monstre%20chim%C3%A8re
+[03/06/2022 - 22:40:59.565 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:41:02.101 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=sanguinaire
+[03/06/2022 - 22:41:02.103 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:42:55.254 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=vendeur%20r%C3%A9version
+[03/06/2022 - 22:42:55.255 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:47:52.026 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=YouTube%20music
+[03/06/2022 - 22:47:52.028 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:48:14.791 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=quand%20j%27enfile%20cette%20cagoule
+[03/06/2022 - 22:48:14.793 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:48:55.813 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pastiche
+[03/06/2022 - 22:48:55.816 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:49:02.591 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=quel%20est%20qui%20me%20demande%20pas%20ce%20que%20je%20voulais
+[03/06/2022 - 22:49:02.593 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:49:27.118 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=ajouter%20de%20la%20soupape%20des%20tranch%C3%A9es%20truc%20au%20coupe-coupe
+[03/06/2022 - 22:49:27.120 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:49:44.061 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=vous%20avez%20s%C3%A9lectionn%C3%A9
+[03/06/2022 - 22:49:44.067 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:49:48.255 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=discuter
+[03/06/2022 - 22:49:48.262 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:49:51.007 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=qui%20seront%20disque%20d%27or
+[03/06/2022 - 22:49:51.009 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:50:47.735 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=vous%20avez%20scell%C3%A9
+[03/06/2022 - 22:50:47.737 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:50:57.610 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=vous%20avez%20sal%C3%A9
+[03/06/2022 - 22:50:57.614 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:56:34.143 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20il%20est%20quelle%20heure
+[03/06/2022 - 22:56:34.153 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:56:34.158 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:56:34.166 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.169 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.181 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.183 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.186 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.189 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.192 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.194 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.197 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.207 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.213 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:34.214 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:56:34.216 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:56:36.628 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=il%20est%2022h56
+[03/06/2022 - 22:56:36.630 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:56:43.053 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20m%C3%A9lodie%20en%20veille
+[03/06/2022 - 22:56:43.060 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:56:43.062 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:56:43.070 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.072 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.076 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.083 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.088 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.090 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.097 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.104 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.107 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.114 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.119 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:43.122 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:56:43.123 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:56:54.035 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=service%20m%C3%A9lodie%20en%20veille
+[03/06/2022 - 22:56:54.040 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:56:59.442 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 22:56:59.444 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:56:59.451 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 22:56:59.458 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:59.468 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:59.472 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:59.475 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:59.477 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:59.481 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:59.484 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 22:56:59.493 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 22:56:59.501 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 22:56:59.503 DEBUG] (\V4.1\jarvis.js:25:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je passe l'ordinateur en mode veille
+[03/06/2022 - 22:57:03.042 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=je%20passe%20l%27ordinateur%20en%20mode%20veille
+[03/06/2022 - 22:57:03.045 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 22:58:11.010 DEBUG] (\localModules\windowsTrayMenu.js:64:9): click, result = ,false
+[03/06/2022 - 22:58:12.837 DEBUG] (\localModules\windowsTrayMenu.js:73:10): error:,
+[03/06/2022 - 22:58:12.838 DEBUG] (\localModules\windowsTrayMenu.js:74:10): result:,1
+[03/06/2022 - 22:58:15.332 DEBUG] (\localModules\windowsTrayMenu.js:86:9): balloon-click
+[03/06/2022 - 22:58:16.412 DEBUG] (\localModules\windowsTrayMenu.js:73:10): error:,
+[03/06/2022 - 22:58:16.414 DEBUG] (\localModules\windowsTrayMenu.js:74:10): result:,2
+[03/06/2022 - 22:58:45.310 DEBUG] (\localModules\windowsTrayMenu.js:64:9): click, result = ,true
+[03/06/2022 - 22:58:46.194 DEBUG] (\localModules\windowsTrayMenu.js:64:9): click, result = ,false
+[03/06/2022 - 22:58:46.812 DEBUG] (\localModules\windowsTrayMenu.js:64:9): click, result = ,true
+[03/06/2022 - 22:58:47.602 DEBUG] (\localModules\windowsTrayMenu.js:64:9): click, result = ,false
+[03/06/2022 - 22:58:49.035 DEBUG] (\localModules\windowsTrayMenu.js:64:9): click, result = ,true
+[03/06/2022 - 22:58:57.330 DEBUG] (\localModules\windowsTrayMenu.js:73:10): error:,
+[03/06/2022 - 22:58:57.334 DEBUG] (\localModules\windowsTrayMenu.js:74:10): result:,2
+[03/06/2022 - 22:59:23.098 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:59:23.123 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 22:59:23.124 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 22:59:23.125 INFO] (\localModules\windowsTrayMenu.js:132:9): Destroying all application!
+[03/06/2022 - 22:59:24.869 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 22:59:24.880 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 22:59:24.881 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 22:59:25.113 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 22:59:25.314 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 22:59:25.339 DEBUG] (\localModules\windowsTrayMenu.js:58:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 22:59:25.566 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 22:59:25.781 LOG] (\V4.1\server.js:104:16): [sock][+] [a380oqf0efRzDkGtAAAB] Connected.
+[03/06/2022 - 22:59:27.575 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 22:59:27.577 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 22:59:27.578 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 22:59:27.579 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 22:59:27.580 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 22:59:31.795 DEBUG] (\localModules\windowsTrayMenu.js:65:9): click, result = ,false
+[03/06/2022 - 22:59:32.613 DEBUG] (\localModules\windowsTrayMenu.js:65:9): click, result = ,true
+[03/06/2022 - 22:59:33.895 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 22:59:33.896 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 22:59:35.917 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 22:59:35.918 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 22:59:38.368 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 22:59:38.369 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 22:59:41.532 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 22:59:41.538 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 22:59:45.308 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 22:59:45.324 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 22:59:46.461 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 22:59:46.462 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,2
+[03/06/2022 - 22:59:53.430 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 22:59:53.431 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,2
+[03/06/2022 - 23:00:22.836 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:00:22.868 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:00:22.869 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:00:22.870 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:00:24.999 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:00:25.014 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:00:25.015 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:00:25.229 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:00:25.414 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:00:25.428 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:00:25.653 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:00:25.758 LOG] (\V4.1\server.js:104:16): [sock][+] [bcaP4vpY3ew8BcdaAAAB] Connected.
+[03/06/2022 - 23:00:27.657 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:00:27.660 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:00:27.661 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:00:27.666 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:00:27.667 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:00:28.138 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,false
+[03/06/2022 - 23:00:29.004 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,true
+[03/06/2022 - 23:00:29.994 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:00:29.996 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:00:32.598 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:00:32.600 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:00:34.297 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,false
+[03/06/2022 - 23:00:34.852 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,true
+[03/06/2022 - 23:00:35.841 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,false
+[03/06/2022 - 23:00:36.709 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,true
+[03/06/2022 - 23:00:38.673 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:00:38.674 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:00:40.045 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:00:40.047 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,2
+[03/06/2022 - 23:00:40.051 DEBUG] (\localModules\windowsTrayMenu.js:32:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:01:01.162 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:01:01.190 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:01:01.192 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:01:01.193 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:01:02.530 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:01:02.541 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:01:02.542 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:01:02.753 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:01:02.942 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:01:02.957 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:01:03.180 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:01:03.263 LOG] (\V4.1\server.js:104:16): [sock][+] [Xo3lt59KS9CmNQy4AAAB] Connected.
+[03/06/2022 - 23:01:04.627 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,false
+[03/06/2022 - 23:01:05.193 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:01:05.194 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:01:05.195 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:01:05.196 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:01:05.197 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:01:05.325 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,true
+[03/06/2022 - 23:01:06.122 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:01:06.125 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:01:07.431 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:01:07.432 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,2
+[03/06/2022 - 23:01:07.434 DEBUG] (\localModules\windowsTrayMenu.js:32:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:01:29.780 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:01:29.781 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,5
+[03/06/2022 - 23:01:29.791 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:01:29.821 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:01:29.825 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:01:29.827 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:01:38.050 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:01:38.062 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:01:38.063 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:01:38.276 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:01:38.464 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:01:38.480 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:01:38.707 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:01:38.762 LOG] (\V4.1\server.js:104:16): [sock][+] [8Ntd0begW59FxhlnAAAB] Connected.
+[03/06/2022 - 23:01:40.713 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:01:40.714 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:01:40.715 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:01:40.716 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:01:40.719 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:01:40.866 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,false
+[03/06/2022 - 23:01:41.404 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,true
+[03/06/2022 - 23:01:42.255 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:01:42.258 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:01:43.298 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,false
+[03/06/2022 - 23:01:44.164 DEBUG] (\localModules\windowsTrayMenu.js:66:9): click, result = ,true
+[03/06/2022 - 23:01:45.142 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:01:45.144 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,2
+[03/06/2022 - 23:01:45.145 DEBUG] (\localModules\windowsTrayMenu.js:32:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:01:59.746 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:01:59.777 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:01:59.779 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:01:59.780 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:02:01.316 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:02:01.328 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:02:01.330 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:02:01.551 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:02:01.745 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:02:01.760 DEBUG] (\localModules\windowsTrayMenu.js:58:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:02:01.983 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:02:02.031 LOG] (\V4.1\server.js:104:16): [sock][+] [9624NLJxUf-8sPu9AAAB] Connected.
+[03/06/2022 - 23:02:03.556 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 23:02:03.557 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 23:02:03.996 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:02:03.997 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:02:04.000 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:02:04.001 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:02:04.002 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:02:05.827 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 23:02:05.828 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,2
+[03/06/2022 - 23:02:05.830 DEBUG] (\localModules\windowsTrayMenu.js:32:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:02:11.455 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 23:02:11.456 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 23:02:23.002 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:02:23.031 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:02:23.033 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:02:23.034 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:02:24.408 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:02:24.419 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:02:24.421 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:02:24.646 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:02:24.832 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:02:24.847 DEBUG] (\localModules\windowsTrayMenu.js:51:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:02:25.079 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:02:25.282 LOG] (\V4.1\server.js:104:16): [sock][+] [FXfWZaPUI3GWm5EHAAAB] Connected.
+[03/06/2022 - 23:02:26.539 DEBUG] (\localModules\windowsTrayMenu.js:67:10): error:,
+[03/06/2022 - 23:02:26.541 DEBUG] (\localModules\windowsTrayMenu.js:68:10): result:,2
+[03/06/2022 - 23:02:27.091 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:02:27.092 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:02:27.093 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:02:27.094 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:02:27.095 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:02:28.550 DEBUG] (\localModules\windowsTrayMenu.js:67:10): error:,
+[03/06/2022 - 23:02:28.551 DEBUG] (\localModules\windowsTrayMenu.js:68:10): result:,2
+[03/06/2022 - 23:02:30.549 DEBUG] (\localModules\windowsTrayMenu.js:67:10): error:,
+[03/06/2022 - 23:02:30.550 DEBUG] (\localModules\windowsTrayMenu.js:68:10): result:,1
+[03/06/2022 - 23:02:43.162 INFO] (\localModules\windowsTrayMenu.js:126:9): Destroying all application!
+[03/06/2022 - 23:02:43.189 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:02:43.190 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:02:43.191 INFO] (\localModules\windowsTrayMenu.js:126:9): Destroying all application!
+[03/06/2022 - 23:02:44.469 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:02:44.476 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:02:44.478 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:02:44.696 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:02:44.883 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:02:44.897 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:02:45.124 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:02:45.527 LOG] (\V4.1\server.js:104:16): [sock][+] [GJnxFUum7C8SXaZhAAAB] Connected.
+[03/06/2022 - 23:02:47.138 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:02:47.139 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:02:47.140 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:02:47.141 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:02:47.142 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:02:47.199 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:02:47.202 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:02:47.203 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:02:49.445 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:02:49.446 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:02:49.447 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:00.572 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:00.573 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:00.574 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:08.838 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:08.839 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:08.840 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:12.197 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:13.065 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:13.067 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:13.084 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:13.397 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:16.017 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:16.018 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,0
+[03/06/2022 - 23:03:17.866 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:17.868 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:17.869 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:18.854 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:21.568 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:21.569 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,2
+[03/06/2022 - 23:03:21.570 DEBUG] (\localModules\windowsTrayMenu.js:33:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:03:32.233 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:32.237 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:32.239 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:36.044 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:36.805 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:36.806 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:36.808 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:38.926 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:39.886 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:39.888 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:39.890 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:41.558 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:42.392 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:42.393 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:42.395 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:43.414 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:44.248 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:44.250 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:44.252 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:45.463 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:46.303 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:46.305 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:46.309 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:46.991 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:47.711 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:47.712 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:47.715 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:48.998 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:49.604 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:49.606 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:49.607 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:50.974 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:51.579 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:51.581 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:51.583 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:52.638 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:54.270 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:54.271 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,0
+[03/06/2022 - 23:03:56.044 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:56.062 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:56.084 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:57.776 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:03:58.716 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:03:58.718 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:03:58.721 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:03:59.886 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:04:00.945 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:04:00.946 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:04:00.949 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:04:02.661 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:04:03.989 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:04:03.991 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:04:03.992 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:04:06.896 DEBUG] (\localModules\windowsTrayMenu.js:88:9): balloon-click
+[03/06/2022 - 23:04:10.523 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:04:10.525 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,0
+[03/06/2022 - 23:04:11.852 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:04:11.854 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:04:11.856 DEBUG] (\localModules\windowsTrayMenu.js:25:20): coucou
+[03/06/2022 - 23:04:22.330 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:04:22.357 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:04:22.358 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:04:22.359 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:04:23.604 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:04:23.615 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:04:23.616 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:04:23.824 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:04:24.018 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:04:24.034 DEBUG] (\localModules\windowsTrayMenu.js:58:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:04:24.288 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:04:24.502 LOG] (\V4.1\server.js:104:16): [sock][+] [IWAGFB41s29BNzB_AAAB] Connected.
+[03/06/2022 - 23:04:25.637 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 23:04:25.640 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 23:04:26.300 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:04:26.302 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:04:26.303 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:04:26.304 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:04:26.304 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:04:38.297 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:04:38.326 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:04:38.328 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:04:38.329 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:04:40.344 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:04:40.356 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:04:40.357 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:04:40.584 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:04:40.771 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:04:40.786 DEBUG] (\localModules\windowsTrayMenu.js:58:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:04:41.028 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:04:41.084 LOG] (\V4.1\server.js:104:16): [sock][+] [CBxf50eszoJba8UtAAAB] Connected.
+[03/06/2022 - 23:04:43.031 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:04:43.032 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:04:43.033 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:04:43.034 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:04:43.035 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:04:43.172 DEBUG] (\localModules\windowsTrayMenu.js:74:10): error:,
+[03/06/2022 - 23:04:43.173 DEBUG] (\localModules\windowsTrayMenu.js:75:10): result:,1
+[03/06/2022 - 23:04:57.455 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=en%20fait%20tu%20sers%20%C3%A0%20rien
+[03/06/2022 - 23:04:57.460 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:07:10.208 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=je%20te%20troll%20%C3%A0%20metrage
+[03/06/2022 - 23:07:10.212 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:08:33.489 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:08:33.516 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:08:33.517 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:08:33.519 INFO] (\localModules\windowsTrayMenu.js:133:9): Destroying all application!
+[03/06/2022 - 23:08:35.052 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:08:35.065 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:08:35.066 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:08:35.283 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:08:35.487 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:08:35.502 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:08:35.775 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:08:35.816 LOG] (\V4.1\server.js:104:16): [sock][+] [pE9Z1XDNgK_pzdKwAAAB] Connected.
+[03/06/2022 - 23:08:37.557 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:08:37.558 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:08:37.582 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:09:46.743 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:09:46.761 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:09:46.762 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:09:47.035 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:09:47.227 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:09:47.241 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:09:47.459 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:09:47.543 LOG] (\V4.1\server.js:104:16): [sock][+] [EXVmDEmU0-qCWsZBAAAB] Connected.
+[03/06/2022 - 23:09:49.474 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:09:49.475 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:09:49.476 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:09:49.478 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:09:49.479 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:09:55.957 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:09:55.959 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:10:01.252 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=mais%20non
+[03/06/2022 - 23:10:01.254 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:10:14.980 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pas%20le%20soir
+[03/06/2022 - 23:10:14.983 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:10:22.975 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tu%20repars%20en%20chez%20moi%20demande%20pas%20trop
+[03/06/2022 - 23:10:22.980 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:10:27.298 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=films%20sont%20profondes
+[03/06/2022 - 23:10:27.339 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:10:31.584 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=pas%20si%20fort
+[03/06/2022 - 23:10:31.585 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:10:34.600 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=passe%20fort
+[03/06/2022 - 23:10:34.601 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:10:41.641 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:10:41.669 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:10:41.671 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:10:41.672 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:10:43.231 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:10:43.243 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:10:43.244 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:10:43.456 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:10:43.645 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:10:43.659 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:10:43.885 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:10:44.002 LOG] (\V4.1\server.js:104:16): [sock][+] [dZxIf6KvsIqJKcssAAAB] Connected.
+[03/06/2022 - 23:10:45.886 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:10:45.888 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:10:45.889 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:10:45.890 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:10:45.891 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:10:46.201 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:10:46.202 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:10:59.562 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:10:59.592 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:10:59.593 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:10:59.594 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:11:01.734 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:11:01.744 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:11:01.745 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:11:01.958 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:11:02.147 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:11:02.162 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:11:02.408 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:11:02.518 LOG] (\V4.1\server.js:104:16): [sock][+] [Y5Q1JZ2nvCOxQpzBAAAB] Connected.
+[03/06/2022 - 23:11:04.409 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:11:04.411 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:11:04.412 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:11:04.413 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:11:04.414 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:11:05.313 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:11:05.316 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:11:05.405 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=plus%20fort%20que%20je%20peux
+[03/06/2022 - 23:11:05.407 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:11:14.100 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Je%20t%27aime%20de%20mon%20mieux
+[03/06/2022 - 23:11:14.106 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:11:37.049 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=l%27amour
+[03/06/2022 - 23:11:37.051 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:15:16.691 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:15:16.731 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:15:16.732 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:15:16.733 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:15:18.389 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:15:18.401 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:15:18.402 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:15:18.611 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:15:18.787 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:15:18.801 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:15:19.025 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:15:19.067 LOG] (\V4.1\server.js:104:16): [sock][+] [LP3nfgwm49pNtOybAAAB] Connected.
+[03/06/2022 - 23:15:21.034 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:15:21.036 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:15:21.039 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:15:21.041 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:15:21.043 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:15:24.840 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:15:24.841 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:15:31.166 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:15:31.167 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,2
+[03/06/2022 - 23:15:31.169 DEBUG] (\localModules\windowsTrayMenu.js:33:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:15:35.960 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:15:35.962 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:16:22.553 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:16:22.583 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:16:22.584 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:16:22.585 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:16:24.008 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:16:24.018 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:16:24.019 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:16:24.222 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:16:24.402 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:16:24.419 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:16:24.655 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:16:24.786 LOG] (\V4.1\server.js:104:16): [sock][+] [xG4ZUdKVYanBNyYDAAAB] Connected.
+[03/06/2022 - 23:16:26.658 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:16:26.662 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:16:26.665 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:16:26.668 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:16:26.672 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:16:26.797 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:16:26.798 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:16:36.174 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=%C3%A9teins%20le%20laisse%20pas%20te%20quitter%20c%27est%20%C3%A7a%20de%20cours
+[03/06/2022 - 23:16:36.176 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:16:41.819 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=coin
+[03/06/2022 - 23:16:41.820 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:16:47.671 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=en%20fait
+[03/06/2022 - 23:16:47.679 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:17:10.601 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:17:10.635 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:17:10.636 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:17:10.637 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:17:11.859 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:17:11.870 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:17:11.871 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:17:12.082 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:17:12.312 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:17:12.328 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:17:12.641 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:17:12.804 LOG] (\V4.1\server.js:104:16): [sock][+] [YD6aaedo0xlbivFzAAAB] Connected.
+[03/06/2022 - 23:17:14.644 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:17:14.646 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:17:14.647 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:17:14.651 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:17:14.653 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:17:16.203 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:17:16.204 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:17:42.178 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:17:42.206 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:17:42.207 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:17:42.208 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:17:43.567 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:17:43.579 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:17:43.580 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:17:43.781 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:17:43.956 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:17:43.970 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:17:44.194 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:17:44.267 LOG] (\V4.1\server.js:104:16): [sock][+] [oERd-kkxzI3Ju4D0AAAB] Connected.
+[03/06/2022 - 23:17:46.200 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:17:46.202 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:17:46.204 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:17:46.205 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:17:46.206 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:17:46.495 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:17:46.496 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:17:47.856 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=adresse%20pas%20te%20quitter%20c%27est%20%C3%A7a
+[03/06/2022 - 23:17:47.858 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:17:49.001 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:17:49.003 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:17:55.545 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=visiblement%20jamais%20ce%20sont
+[03/06/2022 - 23:17:55.555 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:18:17.210 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:18:17.246 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:18:17.247 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:18:17.249 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:18:18.909 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:18:18.921 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:18:18.922 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:18:19.123 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:18:19.298 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:18:19.312 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:18:19.541 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:18:19.593 LOG] (\V4.1\server.js:104:16): [sock][+] [USnXOWMt64FIMrLIAAAB] Connected.
+[03/06/2022 - 23:18:21.028 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:18:21.030 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:18:21.544 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:18:21.546 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:18:21.547 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:18:21.548 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:18:21.549 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:18:28.063 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:18:28.064 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:18:33.882 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:18:33.883 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:18:34.834 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:18:34.861 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:18:34.863 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:18:34.864 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:18:46.877 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:18:46.889 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:18:46.890 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:18:47.091 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:18:47.264 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:18:47.278 DEBUG] (\localModules\windowsTrayMenu.js:59:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:18:47.503 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:18:49.501 LOG] (\V4.1\server.js:104:16): [sock][+] [kWqj6rv8auA4yyo5AAAB] Connected.
+[03/06/2022 - 23:18:49.506 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:18:49.507 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:18:49.509 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:18:49.510 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:18:49.512 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:18:50.862 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:18:50.864 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:18:53.665 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:18:53.666 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:18:55.406 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:18:55.407 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,2
+[03/06/2022 - 23:18:55.408 DEBUG] (\localModules\windowsTrayMenu.js:33:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:19:00.510 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:19:00.511 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:19:50.910 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=joue
+[03/06/2022 - 23:19:50.912 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:19:52.910 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=qu%27est-ce%20que%20tu%20as
+[03/06/2022 - 23:19:52.912 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:20:01.203 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=%C3%A0%20quelle%20heure
+[03/06/2022 - 23:20:01.206 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:20:05.325 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=la%20musique%20je%20vais%20me%20coucher%20%C3%A0%202h%20du%20mat
+[03/06/2022 - 23:20:05.331 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:20:12.345 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tu%20peux%20jouer%20du%20piano%20est%20quelle%20heure
+[03/06/2022 - 23:20:12.356 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:20:18.398 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=regarde%20un%20film
+[03/06/2022 - 23:20:18.404 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:20:45.119 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=mais%20regarde%20un%20film%20si%20c%27est%20juste%20que%20il%20fait%20chaud%20et%20d%C3%A9j%C3%A0%20l%C3%A0%20j%27ai%20chaud%20j%27ai%20pas%20envie%20de%20foutre%20un%20t-shirt%20en%20plus%20qui%20va%20me%20coller%20parce%20que%20genre%20%C3%A7a%20me%20colle%20je%20le%20retire%20je%20voulais%20dormir%20parce%20que%20c%27est%20fait%20chaud
+[03/06/2022 - 23:20:45.125 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:20:47.768 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=maman%20c%27est%20pareil
+[03/06/2022 - 23:20:47.777 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:20:52.858 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=oui%20quand%20m%C3%AAme%20chaud
+[03/06/2022 - 23:20:52.859 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:21:03.464 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=je%20te%20p%C3%A8te
+[03/06/2022 - 23:21:03.466 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:21:20.177 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=caressant
+[03/06/2022 - 23:21:20.189 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:21:23.216 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=n%27est-ce%20pas%20triste
+[03/06/2022 - 23:21:23.222 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:22:38.849 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:22:38.850 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:22:46.219 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=alors%20que%20je%20suis%20s%C3%BBr%20de%20moi
+[03/06/2022 - 23:22:46.221 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:22:51.497 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:22:51.498 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:22:52.466 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tout%20ce%20que%20j%27ai%20%C3%A0%20l%27arr%C3%AAt%20ses%20devoirs
+[03/06/2022 - 23:22:52.470 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:22:56.371 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:22:56.372 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:23:04.914 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Th%C3%A9o%20loup
+[03/06/2022 - 23:23:04.915 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:08.015 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=peux-tu%20tu%20es%20relou
+[03/06/2022 - 23:23:08.018 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:11.101 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:23:11.102 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,1
+[03/06/2022 - 23:23:13.637 DEBUG] (\localModules\windowsTrayMenu.js:75:10): error:,
+[03/06/2022 - 23:23:13.639 DEBUG] (\localModules\windowsTrayMenu.js:76:10): result:,2
+[03/06/2022 - 23:23:13.640 DEBUG] (\localModules\windowsTrayMenu.js:33:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:23:25.890 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=une%20mite
+[03/06/2022 - 23:23:25.892 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:37.440 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Charles
+[03/06/2022 - 23:23:37.441 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:41.165 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=exact
+[03/06/2022 - 23:23:41.167 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:43.618 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tente
+[03/06/2022 - 23:23:43.622 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:48.525 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:23:48.580 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:23:48.582 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:23:48.588 INFO] (\localModules\windowsTrayMenu.js:134:9): Destroying all application!
+[03/06/2022 - 23:23:49.760 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:23:49.772 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:23:49.773 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:23:49.979 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:23:50.161 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:23:50.176 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:23:50.398 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:23:50.446 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=load%20Directory
+[03/06/2022 - 23:23:50.448 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:50.500 LOG] (\V4.1\server.js:104:16): [sock][+] [TOWfb9g2FPmLDWATAAAB] Connected.
+[03/06/2022 - 23:23:52.398 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:23:52.399 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:23:52.400 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:23:52.401 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:23:52.402 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:23:52.571 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[03/06/2022 - 23:23:52.573 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[03/06/2022 - 23:23:54.460 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[03/06/2022 - 23:23:54.462 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,2
+[03/06/2022 - 23:23:54.463 DEBUG] (\localModules\windowsTrayMenu.js:33:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:23:59.732 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=%C3%A7a%20va%20beaucoup%20mieux
+[03/06/2022 - 23:23:59.736 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:23:59.949 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[03/06/2022 - 23:23:59.951 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[03/06/2022 - 23:24:01.374 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[03/06/2022 - 23:24:01.375 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,2
+[03/06/2022 - 23:24:01.377 DEBUG] (\localModules\windowsTrayMenu.js:33:20): opening,C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\
+[03/06/2022 - 23:24:08.426 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=bienvenue%20%C3%A0
+[03/06/2022 - 23:24:08.428 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:27:27.525 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tu%20es%20o%C3%B9
+[03/06/2022 - 23:27:27.526 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:27:42.200 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=c%27est%20un%20panneau%20d%27%C3%AAtre%20as%20dans%20le%20nouveau%20ah%20tu%20es%20moche
+[03/06/2022 - 23:27:42.204 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:29:26.886 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=mets%20boum%20boum
+[03/06/2022 - 23:29:26.891 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:30:08.442 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tous%20tous%20les%20deux
+[03/06/2022 - 23:30:08.443 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:39:55.322 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:39:55.353 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:39:55.355 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:39:55.364 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:39:56.807 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:39:56.819 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:39:56.820 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:39:57.023 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:39:57.212 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:39:57.228 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:39:57.510 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:39:57.580 LOG] (\V4.1\server.js:104:16): [sock][+] [2FdWodCmfIcyoXHIAAAB] Connected.
+[03/06/2022 - 23:39:59.511 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:39:59.513 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:39:59.514 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:39:59.515 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:39:59.515 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:42:42.384 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27ai%20envie%20je%20reviens%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 23:42:42.388 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:42:48.447 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 23:42:48.448 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:42:48.451 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 23:42:48.457 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:42:48.461 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:42:48.465 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:42:48.475 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:42:48.478 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:42:48.481 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:42:48.484 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:42:48.493 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 23:42:48.496 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 23:42:48.499 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en veille
+[03/06/2022 - 23:42:51.648 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=je%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 23:42:51.653 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:43:26.058 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=sont%20pas
+[03/06/2022 - 23:43:26.062 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:43:51.937 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:43:51.967 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:43:51.971 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:43:51.972 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:43:58.580 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:43:58.591 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:43:58.592 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:43:58.802 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:43:59.043 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:43:59.060 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:43:59.309 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:43:59.362 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=tu%20t%27es%20le%20clip
+[03/06/2022 - 23:43:59.364 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:44:00.523 LOG] (\V4.1\server.js:104:16): [sock][+] [io1pGYxbWxkYM9YJAAAB] Connected.
+[03/06/2022 - 23:44:00.864 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=t%C3%A9l%C3%A9
+[03/06/2022 - 23:44:00.866 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:44:01.309 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:44:01.313 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:44:01.317 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:44:01.320 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:44:01.324 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:44:04.984 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27arrive%20je%20reviens%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 23:44:04.988 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:44:10.255 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20je%20reviens%20ordinateur%20en%20veille
+[03/06/2022 - 23:44:10.257 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:44:10.259 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 23:44:10.265 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.267 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.270 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.272 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.283 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.285 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.288 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.295 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.298 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.302 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.304 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:10.307 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 23:44:10.315 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 23:44:18.296 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Jarvis%20je%20reviens%20m%C3%A9lodie%20en%20veille
+[03/06/2022 - 23:44:18.300 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:44:18.303 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 23:44:18.310 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.313 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.317 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.319 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.322 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.331 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.334 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.336 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.344 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.348 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.351 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:18.353 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 23:44:18.360 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 23:44:24.333 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20je%20reviens%20mets%20l%27ordi%20en%20veille
+[03/06/2022 - 23:44:24.337 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:44:24.346 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 23:44:24.353 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:24.363 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:24.368 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:24.371 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:44:24.374 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 23:44:24.376 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 23:44:24.378 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,[TTS()] > list of 4 items. Saying: Je mets l'ordi en veille, aurevoir monsieur
+[03/06/2022 - 23:44:28.507 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=je%20mets%20en%20veille%20au%20revoir%20monsieur
+[03/06/2022 - 23:44:28.510 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:45:28.340 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=comment%20fonctionne%20pas
+[03/06/2022 - 23:45:28.341 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:45:32.703 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=en%20fait
+[03/06/2022 - 23:45:32.705 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:45:37.150 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:45:37.206 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:45:37.210 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:45:37.216 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:45:42.466 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:45:42.476 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:45:42.478 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:45:42.687 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:45:42.865 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:45:42.879 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:45:43.135 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:45:43.326 LOG] (\V4.1\server.js:104:16): [sock][+] [z27h3nJ7kh5A0dpuAAAB] Connected.
+[03/06/2022 - 23:45:45.136 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:45:45.137 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:45:45.138 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:45:45.139 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:45:45.141 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:47:17.650 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:47:17.677 ERROR] (\V4.1\index.js:80:12): About to exit with code 0
+
+[03/06/2022 - 23:47:17.678 LOG] (\V4.1\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[03/06/2022 - 23:47:17.679 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[03/06/2022 - 23:47:19.515 INFO] (\V4.1\index.js:17:8): =======================================
+[03/06/2022 - 23:47:19.526 INFO] (\V4.1\index.js:18:8): ========== [Starting script] ==========
+[03/06/2022 - 23:47:19.529 INFO] (\V4.1\index.js:19:8): =======================================
+[03/06/2022 - 23:47:19.732 INFO] (\V4.1\index.js:91:8): Starting all modules...
+[03/06/2022 - 23:47:19.906 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[03/06/2022 - 23:47:19.920 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),C:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.1\src\img\jarvis_triangle_only.ico
+[03/06/2022 - 23:47:20.143 INFO] (\V4.1\server.js:119:16): Serveur démarré sur le port 1111
+[03/06/2022 - 23:47:20.275 LOG] (\V4.1\server.js:104:16): [sock][+] [0AREE3ZpLYGIqnKfAAAB] Connected.
+[03/06/2022 - 23:47:22.147 INFO] (\V4.1\index.js:105:12): info
+[03/06/2022 - 23:47:22.151 WARN] (\V4.1\index.js:106:12): warn
+[03/06/2022 - 23:47:22.154 ERROR] (\V4.1\index.js:107:12): error
+[03/06/2022 - 23:47:22.157 LOG] (\V4.1\index.js:108:12): log
+[03/06/2022 - 23:47:22.159 DEBUG] (\V4.1\index.js:109:12): debug
+[03/06/2022 - 23:47:53.209 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27ai%20envie%20je%20reviens%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 23:47:53.212 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:47:58.297 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Sarah%20je%20reviens%20mets%20l%27ordinateur%20en%20veille
+[03/06/2022 - 23:47:58.298 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[03/06/2022 - 23:47:58.303 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[03/06/2022 - 23:47:58.309 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:47:58.320 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:47:58.325 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:47:58.328 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[03/06/2022 - 23:47:58.331 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[03/06/2022 - 23:47:58.333 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[03/06/2022 - 23:47:58.335 DEBUG] (\V4.1\jarvis.js:26:39): [Jarvis.js DEBUG]:,[TTS()] > list of 4 items. Saying: A tout à l'heure monsieur
+[03/06/2022 - 23:48:34.174 LOG] (\V4.1\server.js:108:20): [sock][-] [undefined] Disconnected.
+[04/06/2022 - 00:10:36.696 LOG] (\V4.1\server.js:104:16): [sock][+] [eU0ZGv89Of8ZVVZQAAAD] Connected.
+[04/06/2022 - 00:25:28.482 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=j%27arrive%20tu%20es%20l%C3%A0
+[04/06/2022 - 00:25:28.485 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:25:32.843 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=moules%20frites
+[04/06/2022 - 00:25:32.846 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:25:36.467 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=bonne%20f%C3%AAte%20tu%20es%20l%C3%A0
+[04/06/2022 - 00:25:36.470 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:25:39.171 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20tu%20es%20l%C3%A0
+[04/06/2022 - 00:25:39.173 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:25:41.879 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[04/06/2022 - 00:25:41.886 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:25:45.359 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[04/06/2022 - 00:25:45.370 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:25:58.018 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=elle%20%C3%A9tait%20l%C3%A0
+[04/06/2022 - 00:25:58.019 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:01.602 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=et%20Wilfried%20tu%20es%20l%C3%A0
+[04/06/2022 - 00:26:01.604 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:04.786 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=un%20mec%20s*******
+[04/06/2022 - 00:26:04.788 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:10.570 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=s*******
+[04/06/2022 - 00:26:10.573 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:17.278 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=une%20sucette%20qui%20se%20fait%20sucer
+[04/06/2022 - 00:26:17.285 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:22.974 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=une%20sucette%20qui%20se%20fait%20sucer%20moi
+[04/06/2022 - 00:26:22.980 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:27.544 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=une%20sucette%20qui%20Sophie%20s*******
+[04/06/2022 - 00:26:27.547 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:33.989 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=encul%C3%A9%20de%20tes%20morts
+[04/06/2022 - 00:26:33.991 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:39.066 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wall%20Street
+[04/06/2022 - 00:26:39.068 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:26:42.003 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[04/06/2022 - 00:26:42.006 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 00:29:14.424 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20tu%20es%20l%C3%A0
+[04/06/2022 - 00:29:14.426 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]

@@ -1,0 +1,20 @@
+{
+  "name": "v4.1",
+  "version": "4.1.0",
+  "description": "Jarvis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sylicium",
+  "license": "ISC",
+  "dependencies": {
+    "gtts": "^0.1.1",
+    "open-file-explorer": "^1.0.2",
+    "play-sound": "^1.1.5",
+    "speak-tts": "^2.0.8",
+    "text-to-speech-offline": "^1.0.1",
+    "windows-tray": "github:AHgPuK/window-tray"
+  }
+}

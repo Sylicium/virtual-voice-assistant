@@ -1,0 +1,79 @@
+<html>
+
+
+<head>
+
+</head>
+
+<body>
+
+    <h1>Vous avez dis:<p id="text">...</p></h1>
+
+</body>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+<script>
+
+
+    let socket = io()
+
+const TTS = (text, lang = 'fr-FR', volume = 1, rate = 1, pitch = 1) => {
+    let synthesis = window.speechSynthesis
+    let utterance = new SpeechSynthesisUtterance(text)
+
+    utterance.lang = lang
+    utterance.rate = rate
+    utterance.pitch = pitch
+    utterance.volume = volume
+    synthesis.cancel()
+
+    return synthesis.speak(utterance)
+}
+
+socket.on("say_tts", datas => {
+    console.log(`[socket:say_tts] > datas:`,datas)
+
+    TTS(datas.text, (datas.lang || "fr-FR"), (datas.volume != undefined ? datas.volume : 1), (datas.rate != undefined ? datas.rate : 1), (datas.pitch != undefined ? datas.pitch : 1)) 
+})
+
+
+if (annyang) {
+    // Let's define our first command. First the text we expect, and then the function it should call
+    var commands = {
+      '*all': async function(all) {
+        document.getElementById("text").textContent = all
+        console.log(all)
+
+        try {
+            let the_url = `/stt/?recognized=${encodeURI(all)}`
+            let resp = await fetch(the_url);
+            console.log("url:",the_url)
+            console.log("reponse:",resp)
+        } catch(e) {
+            console.log(e)
+        }
+
+      }
+    };
+
+
+
+    // Add our commands to annyang
+    annyang.addCommands(commands);
+
+    // Start listening. You can call this here, or attach this call to an event, button, etc.
+    annyang.setLanguage('fr');
+    annyang.start({ autoRestart: true, continuous: true });
+
+} else {
+  console.log(`[ERROR] > Annyang not detected.`)
+  alert(`[ERROR] > Annyang not detected.`)
+}
+
+
+    
+
+</script>
+
+</html>
