@@ -3,7 +3,7 @@
  * @version 2.1.2 // 24/04/2022
  * @author Sylicium
  * @description Module global qui servira à log pour tous les fichiers au lieu de faire toujours un console.log
- *
+ * Starfoula copyright, c mon module t'y touche pas
 */
 
 
