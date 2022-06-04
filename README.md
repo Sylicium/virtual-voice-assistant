@@ -95,5 +95,3 @@ With a file like that, there is some example of sentences to say and their suppo
 - `Jarvis **coucou ça va bonne nuit**`   : rule 1 (because rule 1 is tested before 2 & 3 and is already valid)  
 - `Jarvis bon aller **bonne nuit**`      : rule 1  
 - `Jarvis **bonjour** et **bonne nuit**` : rule 1  
-
-
