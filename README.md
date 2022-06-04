@@ -83,15 +83,15 @@ let rules = [
 ```
 With a file like that, there is some example of sentences to say and their supposed behavior:
 
-- `**Salut** Jarvis **ça va** ?`         : rule 2  
-- `**Bonjour** Jarvis tu **vas** bien`   : rule 3  
-- `**Hey** Jarvis **ça va** ?`           : rule 2  
-- `**Bonjour** Jarvis **ça va** ?`       : rule 2  
-- `Jarvis **ça va** ?`                   : nothing  
-- `Jarvis tu **vas** bien ?`             : nothing  
-- `Jarvis comment **vas** tu ?`          : nothing  
-- `**Wesh** Jarvis comment **vas** tu ?` : rule 3  
-- `Jarvis **vas coucou ça**`             : rule 2  
-- `Jarvis **coucou ça va bonne nuit**`   : rule 1 (because rule 1 is tested before 2 & 3 and is already valid)  
-- `Jarvis bon aller **bonne nuit**`      : rule 1  
-- `Jarvis **bonjour** et **bonne nuit**` : rule 1  
+- **Salut** Jarvis **ça va** ?         : `rule 2`  
+- **Bonjour** Jarvis tu **vas** bien   : `rule 3`  
+- **Hey** Jarvis **ça va** ?           : `rule 2`  
+- **Bonjour** Jarvis **ça va** ?       : `rule 2`  
+- Jarvis **ça va** ?                   : `nothing`  
+- Jarvis tu **vas** bien ?             : `nothing`  
+- Jarvis comment **vas** tu ?          : `nothing`  
+- **Wesh** Jarvis comment **vas** tu ? : `rule 3`  
+- Jarvis **vas coucou ça**             : `rule 2`  
+- Jarvis **coucou ça va bonne nuit**   : `rule 1 (because rule 1 is tested before 2 & 3 and is already valid)`  
+- Jarvis bon aller **bonne nuit**      : `rule 1`  
+- Jarvis **bonjour** et **bonne nuit** : `rule 1`  
