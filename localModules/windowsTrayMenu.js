@@ -5,7 +5,8 @@ const EventEmitter = require('events').EventEmitter;
 const NodeTray = require("../node_modules/windows-tray/build/Release/tray").NodeTray
 const util = require('util')
 util.inherits(NodeTray, EventEmitter)
-let path = require("path")
+let path = require("path");
+const JarvisInstance = require("../jarvis");
 let Logger = require("./logger")()
 
 let rootDirectory = path.join(__dirname, "../")
@@ -17,6 +18,7 @@ module.exports.init = (jarvis) => {
 
 process.title = config.ai.name.text;
 
+/* Juste change this variable to change menu. */
 let trayMenu = [
     {
         id: 1,
@@ -43,12 +45,28 @@ let trayMenu = [
         }
     },
     {
-        id: 3,
-        title: '---',
-        separator: true
+        id: 2,
+        title: `Relancer ${Jarvis.getInfo("name")}`,
+        function: () => {
+            Logger.debug("opening",rootDirectory)
+            Jarvis.useModule("child_process").exec(`start "" "${rootDirectory}"`)
+            /*
+            openExplorer(`${rootDirectory}`, err => {
+                if(err) { Logger.error(err); }
+                else {
+                    //Do Something
+                }
+            });
+            */
+        }
     },
     {
-        id: 5,
+        id: 3,
+        title: '---', // this text make the separator
+        separator: true // this is for my code the be sure its a separator
+    },
+    {
+        id: 9999,
         title: 'Exit',
         function: () => {
             tray.balloon(process.title, "Désactivation de T.A.U.", 1000);

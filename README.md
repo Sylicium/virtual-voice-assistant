@@ -15,16 +15,16 @@ Example of rules & configuration:
 let configuration = [
     {
         id: 1,
-        optionnal: false,
-        content: ["bonne","nuit"],
-        match: "all",
-        caseSensitive: false
+        optionnal: false, // this line is 100% useless lol. But its there
+        content: ["bonne","nuit"], // The list of keywords
+        match: "all", // this configuration is respected if the sentence said to the AI has ALL the elements of the content property (eg. "Bonne nuit Jarvis !")
+        caseSensitive: false // false = comparisons made in lowercase
     },
     {
         id: 2,
         optionnal: false,
         content: ["ça","ca"],
-        match: "any", 
+        match: "any", // this configuration is respected if the sentence said has ANT element of the content property (eg. "Jarvis ça" or "ca Jarvis")
         caseSensitive: false
     },
     {
@@ -36,10 +36,10 @@ let configuration = [
     },
     {
         id: 4,
-        optionnal: false, // this line is 100% useless lol. But its there
-        content: ["bonjour","salut","coucou","wesh","hey"], // The list of keywords
-        match: "any", // this configuration is respected if the sentence said to the AI has ANY element of the content property (eg. "Salut Jarvis !")
-        caseSensitive: false // false = comparisons made in lowercase
+        optionnal: false,
+        content: ["bonjour","salut","coucou","wesh","hey"],
+        match: "any",
+        caseSensitive: false
     },
 ]
 
@@ -78,22 +78,22 @@ let rules = [
         ],
         function: (Jarvis) => { }
     }
-    // if two or more rules matches, only the first will be executed. It is sorted as a normal list
+    // if two or more rules matches, only the first will be executed.
 ]
 ```
 With a file like that, there is some example of sentences to say and their supposed behavior:
 
-- **Salut** Jarvis **ça va** ?         : rule 2  
-- **Bonjour** Jarvis tu **vas** bien  : rule 3  
-- **Hey** Jarvis **ça va** ?           : rule 2  
-- **Bonjour** Jarvis **ça va** ?       : rule 2  
-- Jarvis **ça va** ?                   : nothing  
-- Jarvis tu **vas** bien ?             : nothing  
-- Jarvis comment **vas** tu ?          : nothing  
-- **Wesh** Jarvis comment **vas** tu ? : nothing  
-- Jarvis **vas coucou ça**             : rule 2  
-- Jarvis **vas coucou ça nuit bonne**  : rule 1 (because rule 1 is tested before 2 & 3 and is already valid)  
-- Jarvis bon aller **bonne nuit**      : rule 1  
-- Jarvis **bonjour** et **bonne nuit** : rule 1  
+- **Salut** Jarvis **ça va** ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 2  
+- **Bonjour** Jarvis tu **vas** bien&nbsp;&nbsp;&nbsp;: rule 3  
+- **Hey** Jarvis **ça va** ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 2  
+- **Bonjour** Jarvis **ça va** ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 2  
+- Jarvis **ça va** ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: nothing  
+- Jarvis tu **vas** bien ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: nothing  
+- Jarvis comment **vas** tu ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: nothing  
+- **Wesh** Jarvis comment **vas** tu ?&nbsp;: rule 3  
+- Jarvis **vas coucou ça**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 2  
+- Jarvis **coucou ça va bonne nuit**&nbsp;&nbsp;: rule 1 (because rule 1 is tested before 2 & 3 and is already valid)  
+- Jarvis bon aller **bonne nuit**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 1  
+- Jarvis **bonjour** et **bonne nuit**&nbsp;: rule 1  
 
 

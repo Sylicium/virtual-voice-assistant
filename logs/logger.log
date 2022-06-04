@@ -1696,3 +1696,267 @@ File created on 03/06/2022 at 21:56:47.518
 [04/06/2022 - 00:26:42.006 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
 [04/06/2022 - 00:29:14.424 DEBUG] (\V4.1\server.js:84:16): got url:,/stt/?recognized=Wilfried%20tu%20es%20l%C3%A0
 [04/06/2022 - 00:29:14.426 DEBUG] (\V4.1\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 12:07:26.268 INFO] (\virtual-voice-assistant\index.js:17:8): =======================================
+[04/06/2022 - 12:07:26.276 INFO] (\virtual-voice-assistant\index.js:18:8): ========== [Starting script] ==========
+[04/06/2022 - 12:07:26.277 INFO] (\virtual-voice-assistant\index.js:19:8): =======================================
+[04/06/2022 - 12:07:26.809 INFO] (\virtual-voice-assistant\index.js:91:8): Starting all modules...
+[04/06/2022 - 12:07:27.346 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[04/06/2022 - 12:07:27.396 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),c:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.2 - github\virtual-voice-assistant\src\img\jarvis_triangle_only.ico
+[04/06/2022 - 12:07:27.839 INFO] (\virtual-voice-assistant\server.js:123:16): Serveur démarré sur le port 1111
+[04/06/2022 - 12:07:29.839 INFO] (\virtual-voice-assistant\index.js:105:12): info
+[04/06/2022 - 12:07:29.841 WARN] (\virtual-voice-assistant\index.js:106:12): warn
+[04/06/2022 - 12:07:29.843 ERROR] (\virtual-voice-assistant\index.js:107:12): error
+[04/06/2022 - 12:07:29.846 LOG] (\virtual-voice-assistant\index.js:108:12): log
+[04/06/2022 - 12:07:29.848 DEBUG] (\virtual-voice-assistant\index.js:109:12): debug
+[04/06/2022 - 12:07:35.560 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:07:35.561 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:07:43.025 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:07:43.026 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:07:52.879 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:07:52.880 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:08:10.988 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:08:10.989 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:08:14.414 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:08:14.415 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,0
+[04/06/2022 - 12:08:15.994 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:08:15.995 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:08:36.531 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:08:36.533 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:08:38.063 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:08:38.065 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,0
+[04/06/2022 - 12:08:39.560 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:08:39.562 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,2
+[04/06/2022 - 12:08:39.563 DEBUG] (\localModules\windowsTrayMenu.js:33:20): opening,c:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.2 - github\virtual-voice-assistant\
+[04/06/2022 - 12:08:43.789 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:08:43.791 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,5
+[04/06/2022 - 12:08:43.809 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[04/06/2022 - 12:08:43.846 ERROR] (\virtual-voice-assistant\index.js:80:12): About to exit with code 0
+
+[04/06/2022 - 12:08:43.847 LOG] (\virtual-voice-assistant\index.js:83:16): Le script s'est terminé normalement, par le code 0.
+[04/06/2022 - 12:08:43.848 INFO] (\localModules\windowsTrayMenu.js:137:9): Destroying all application!
+[04/06/2022 - 12:08:58.316 INFO] (\virtual-voice-assistant\index.js:17:8): =======================================
+[04/06/2022 - 12:08:58.323 INFO] (\virtual-voice-assistant\index.js:18:8): ========== [Starting script] ==========
+[04/06/2022 - 12:08:58.324 INFO] (\virtual-voice-assistant\index.js:19:8): =======================================
+[04/06/2022 - 12:08:58.951 INFO] (\virtual-voice-assistant\index.js:91:8): Starting all modules...
+[04/06/2022 - 12:08:59.443 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[04/06/2022 - 12:08:59.473 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),c:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.2 - github\virtual-voice-assistant\src\img\jarvis_triangle_only.ico
+[04/06/2022 - 12:08:59.865 INFO] (\virtual-voice-assistant\server.js:123:16): Serveur démarré sur le port 1111
+[04/06/2022 - 12:09:00.640 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:09:00.641 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:09:01.876 INFO] (\virtual-voice-assistant\index.js:105:12): info
+[04/06/2022 - 12:09:01.878 WARN] (\virtual-voice-assistant\index.js:106:12): warn
+[04/06/2022 - 12:09:01.879 ERROR] (\virtual-voice-assistant\index.js:107:12): error
+[04/06/2022 - 12:09:01.880 LOG] (\virtual-voice-assistant\index.js:108:12): log
+[04/06/2022 - 12:09:01.881 DEBUG] (\virtual-voice-assistant\index.js:109:12): debug
+[04/06/2022 - 12:09:12.401 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 12:09:12.403 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 12:10:34.546 INFO] (\virtual-voice-assistant\index.js:17:8): =======================================
+[04/06/2022 - 12:10:34.552 INFO] (\virtual-voice-assistant\index.js:18:8): ========== [Starting script] ==========
+[04/06/2022 - 12:10:34.554 INFO] (\virtual-voice-assistant\index.js:19:8): =======================================
+[04/06/2022 - 12:10:35.254 INFO] (\virtual-voice-assistant\index.js:91:8): Starting all modules...
+[04/06/2022 - 12:10:35.859 DEBUG] (\modules\actionManager.js:20:16): test manager OK
+[04/06/2022 - 12:10:35.890 DEBUG] (\localModules\windowsTrayMenu.js:62:8): path.join(rootDirectory, './src/img/jarvis_triangle_only.ico'),c:\Users\Sylicium\Documents\devlopement\Cle USB de dev\#41 Jarvis\V4\V4.2 - github\virtual-voice-assistant\src\img\jarvis_triangle_only.ico
+[04/06/2022 - 12:10:36.247 INFO] (\virtual-voice-assistant\server.js:123:16): Serveur démarré sur le port 1111
+[04/06/2022 - 12:10:38.250 INFO] (\virtual-voice-assistant\index.js:105:12): info
+[04/06/2022 - 12:10:38.252 WARN] (\virtual-voice-assistant\index.js:106:12): warn
+[04/06/2022 - 12:10:38.253 ERROR] (\virtual-voice-assistant\index.js:107:12): error
+[04/06/2022 - 12:10:38.255 LOG] (\virtual-voice-assistant\index.js:108:12): log
+[04/06/2022 - 12:10:38.256 DEBUG] (\virtual-voice-assistant\index.js:109:12): debug
+[04/06/2022 - 13:20:51.188 DEBUG] (\localModules\windowsTrayMenu.js:78:10): error:,
+[04/06/2022 - 13:20:51.191 DEBUG] (\localModules\windowsTrayMenu.js:79:10): result:,1
+[04/06/2022 - 13:21:01.569 LOG] (\virtual-voice-assistant\server.js:104:16): [sock][+] [CFCTd2VoQNlOUkysAAAB] Connected.
+[04/06/2022 - 13:21:07.032 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=ordinateur%20en%20veille
+[04/06/2022 - 13:21:07.036 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:21:10.973 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Jarvis%20mets%20l%27ordinateur%20en%20veille
+[04/06/2022 - 13:21:10.975 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:21:10.977 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[04/06/2022 - 13:21:10.980 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:10.982 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:10.986 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:10.989 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:10.991 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:10.994 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:10.997 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:11.000 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[04/06/2022 - 13:21:11.002 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[04/06/2022 - 13:21:11.005 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Je mets l'ordinateur en mode veille
+[04/06/2022 - 13:21:14.781 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Jarvis
+[04/06/2022 - 13:21:14.783 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:21:14.786 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[04/06/2022 - 13:21:14.788 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.791 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.794 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.796 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.800 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.803 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.806 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.809 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.812 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.815 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.821 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:14.824 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[04/06/2022 - 13:21:14.827 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[04/06/2022 - 13:21:21.979 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Sarah%20mets%20l%27ordinateur%20en%20veille
+[04/06/2022 - 13:21:21.981 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:21:21.983 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[04/06/2022 - 13:21:21.985 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:21.988 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:21.991 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:21.993 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:21.996 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:21.999 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:22.001 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:21:22.004 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[04/06/2022 - 13:21:22.006 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[04/06/2022 - 13:21:22.009 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,[TTS()] > list of 8 items. Saying: Très bien. A tout à l'heure monsieur
+[04/06/2022 - 13:21:26.192 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Wilfried%20mets%20l%27ordinateur%20en%20veille
+[04/06/2022 - 13:21:26.198 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:21:46.907 LOG] (\virtual-voice-assistant\server.js:112:20): [sock][-] [undefined] Disconnected.
+[04/06/2022 - 13:24:17.426 LOG] (\virtual-voice-assistant\server.js:104:16): [sock][+] [A-50YKmU7I1TNnuxAAAD] Connected.
+[04/06/2022 - 13:28:57.260 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=le%20dirtybiologistan%20et%20plus%20rien%20c%27est%20pour%20cela%20que%20manifestent%20aux%20c%C3%B4t%C3%A9s%20de%20la%20r%C3%A9gion%20micronation
+[04/06/2022 - 13:28:57.264 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:29:08.383 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=l%27Assembl%C3%A9e%20constituante%20%C3%A9galement%20se%20r%C3%A9unit%20aujourd%27hui%20%C3%A0%2017h%20jusqu%27%C3%A0%20s%27il%20te%20pla%C3%AEt%20portera%20sur%20Nantes
+[04/06/2022 - 13:29:08.385 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:29:20.934 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=passe%20le%20son%20quel%20mandat%20pour%20le%20poste%20est%20d%27accord%20pour%20un%20syst%C3%A8me%20reposant%20sur%20le%20volontariat%20sont%20par%20exemple
+[04/06/2022 - 13:29:20.935 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:29:48.961 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=putin%20Hicham%20pas
+[04/06/2022 - 13:29:48.963 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:33:47.201 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=ouais
+[04/06/2022 - 13:33:47.203 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:34:45.738 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Jarvis%20je%20reviens%20mets%20l%27ordinateur%20en%20veille
+[04/06/2022 - 13:34:45.739 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:34:45.741 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[04/06/2022 - 13:34:45.743 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:34:45.746 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:34:45.749 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:34:45.752 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 13:34:45.755 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[04/06/2022 - 13:34:45.758 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[04/06/2022 - 13:34:45.760 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,[TTS()] > list of 4 items. Saying: Très bien. A tout à l'heure monsieur
+[04/06/2022 - 13:34:50.414 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=%C3%A0%20tout%20%C3%A0%20l%27heure%20monsieur
+[04/06/2022 - 13:34:50.417 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:35:21.618 LOG] (\virtual-voice-assistant\server.js:112:20): [sock][-] [undefined] Disconnected.
+[04/06/2022 - 13:46:17.773 LOG] (\virtual-voice-assistant\server.js:104:16): [sock][+] [cm1c-nh4eP841E5IAAAF] Connected.
+[04/06/2022 - 13:46:24.950 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Clarisse%20il%20est%20quelle%20heure
+[04/06/2022 - 13:46:24.951 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:46:29.705 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Wilfried%20il%20est%20quelle%20heure
+[04/06/2022 - 13:46:29.707 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:46:35.812 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Wilfried
+[04/06/2022 - 13:46:35.814 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:48:40.727 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=p%C3%A9nis
+[04/06/2022 - 13:48:40.729 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:50:59.123 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=1%202%204
+[04/06/2022 - 13:50:59.125 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:51:48.660 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=mais%20quel%20jour%20aujourd%27hui
+[04/06/2022 - 13:51:48.665 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 13:51:55.857 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=date%20d%27aujourd%27hui%20s%27il%20te%20pla%C3%AEt
+[04/06/2022 - 13:51:55.859 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:05:42.828 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=j%27arrive
+[04/06/2022 - 14:05:42.830 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:06:00.325 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=oui
+[04/06/2022 - 14:06:00.327 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:32:38.859 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=minuteur%204%20minutes
+[04/06/2022 - 14:32:38.862 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:40:51.699 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=je%20veux%20pas%20t%27entendre
+[04/06/2022 - 14:40:51.701 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:41:06.779 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=je%20suis%20d%C3%A9sol%C3%A9
+[04/06/2022 - 14:41:06.781 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:43:24.533 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=une%20autre
+[04/06/2022 - 14:43:24.536 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:43:43.130 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=alors
+[04/06/2022 - 14:43:43.131 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:44:01.342 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=ce%20soir
+[04/06/2022 - 14:44:01.344 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:44:44.301 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=probl%C3%A8me%20pr%C3%AAte%20%C3%A0%20tout%20pour%20l%27argent
+[04/06/2022 - 14:44:44.303 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:46:01.158 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=m%27excuser%20pour%20j%27ai%20rien%20vu
+[04/06/2022 - 14:46:01.160 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:49:45.553 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=les%20amis%20aujourd%27hui%20on%20va%20jouer
+[04/06/2022 - 14:49:45.559 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:50:27.490 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=voici%20mon%20chien%20bleu%20de%20quelle%20couleur%20est%20mon%20chien
+[04/06/2022 - 14:50:27.492 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:50:32.347 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=s
+[04/06/2022 - 14:50:32.349 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:50:38.572 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=quels%20sont%20les%20%C3%89tats-Unis
+[04/06/2022 - 14:50:38.574 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:50:49.245 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=ok%20Jean%20Mallard%20de%20quel%20%C3%A9tat%20il%20s%27agit
+[04/06/2022 - 14:50:49.247 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:51:27.174 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=combien%20de%20carte%20y%20a-t-il%20dans%20un%20gallon
+[04/06/2022 - 14:51:27.177 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:51:39.714 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=combien%20de%20c%C3%B4t%C3%A9%20un%20square%20a-t-il
+[04/06/2022 - 14:51:39.716 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:51:44.054 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=la%20t%C3%AAte%20sur%20la%20liste
+[04/06/2022 - 14:51:44.057 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:51:47.180 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=quoi%20%C3%A0%20faire%20quoi
+[04/06/2022 - 14:51:47.182 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:51:52.577 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=non
+[04/06/2022 - 14:51:52.579 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:52:00.223 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=combien%20de%20pattes
+[04/06/2022 - 14:52:00.225 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:52:23.096 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=c%27est%20de%20la%20jambe%20d%27une%20araign%C3%A9e
+[04/06/2022 - 14:52:23.098 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:52:28.888 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=dans%20une%20ann%C3%A9e
+[04/06/2022 - 14:52:28.892 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:52:35.966 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=combien%20de%20doigts%20y%20a-t-il%20sur%20une%20main%20humaine
+[04/06/2022 - 14:52:35.969 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:52:40.900 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=%C3%A0%20combien%20de%20question%20as-tu%20r%C3%A9pondu
+[04/06/2022 - 14:52:40.903 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:53:13.563 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=est-ce%20que%20c%27est%20le%20jeu%20du%20monde%20oui%20ok%20on%20est%20bien%20jusque-l%C3%A0%20tout%20va%20bien
+[04/06/2022 - 14:53:13.567 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:53:29.097 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=lapin
+[04/06/2022 - 14:53:29.099 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:53:51.585 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=qu%27est-ce%20que%20tu%20veux%20dans%20un%20poster%20du%20pain%20Harris
+[04/06/2022 - 14:53:51.587 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:54:01.836 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=pas%20moi
+[04/06/2022 - 14:54:01.838 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:54:24.850 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=%C3%A7a%20g%C3%A8le%20il%20fait%20tr%C3%A8s%20froid%20la%20couleur%20du%20soleil%20t%C3%B4t%20le%20matin
+[04/06/2022 - 14:54:24.853 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:54:39.000 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=me%20faire%20du%20bien%20voici%20mon%20chien%20de%20quelle%20couleur%20est%20mon%20chien
+[04/06/2022 - 14:54:39.003 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:54:53.592 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=du%20coup%20est-ce%20que%20c%27est%20les%20f%C3%AAtes%20de%20fromage%20dans%20un%20bol
+[04/06/2022 - 14:54:53.594 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:55:40.820 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=combien%20de%20personnes
+[04/06/2022 - 14:55:40.822 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:55:45.969 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=c%27est%20bien%20alors%20ok
+[04/06/2022 - 14:55:45.972 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:55:58.480 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=alors%20ok%20il%20manque%20une%20jambe
+[04/06/2022 - 14:55:58.482 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:56:07.127 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=je%20ne%20me%20rends%20pas%20compte%20que%20c%27est%20pas%20du%20tout%20car%20je%20n%27ai%20toujours%20pas%20que%20j%27avais%20mal%20je%20suis%20un%20vrai
+[04/06/2022 - 14:56:07.130 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:56:27.016 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=dans%20la%20pi%C3%A8ce%20il%20y%20a%2010%20personnes%20qui%20ont%2021%20ans%203%20personnes%207%20personnes%20et%209%20personnes%20qui%20ont%2017%20qui%20sont%20les%20gar%C3%A7ons
+[04/06/2022 - 14:56:27.019 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:56:39.928 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=what%20is%20the%20number
+[04/06/2022 - 14:56:39.931 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:57:01.246 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=ok
+[04/06/2022 - 14:57:01.248 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:57:10.205 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=quel%20pays%20est%20le%20plus%20grand
+[04/06/2022 - 14:57:10.207 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:57:24.914 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=est-ce%20que%20tu%20es%20s%C3%BBr
+[04/06/2022 - 14:57:24.916 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:57:39.611 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=nombre%20d%C3%A9cimal%20d%C3%A9cimal%20number
+[04/06/2022 - 14:57:39.612 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:57:51.904 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=regarde%20cette%20cha%C3%AEne%20pour%20avoir%20une%20fois%20bien
+[04/06/2022 - 14:57:51.906 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:58:04.375 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=lance%20le%20nouveau
+[04/06/2022 - 14:58:04.378 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:58:26.825 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=quelle%20%C3%A9tait%20la%20couleur%20du%20sofa
+[04/06/2022 - 14:58:26.827 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:58:39.654 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=qu%27est-ce%20qui%20crie
+[04/06/2022 - 14:58:39.656 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 14:59:12.990 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Gervais%20sur%20bien%20met%20l%27ordi%20en%20veille
+[04/06/2022 - 14:59:12.994 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 15:05:50.014 DEBUG] (\virtual-voice-assistant\server.js:84:16): got url:,/stt/?recognized=Jarvis%20%C3%A9teins%20l%27ordinateur
+[04/06/2022 - 15:05:50.018 DEBUG] (\virtual-voice-assistant\server.js:85:16): the query:,[object Object]
+[04/06/2022 - 15:05:50.020 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,Trying to execute:,[object Object]
+[04/06/2022 - 15:05:50.023 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.027 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.030 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.033 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.036 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.039 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.041 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.044 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.046 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,configNeeded:,[object Object]
+[04/06/2022 - 15:05:50.050 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,tested:,[object Object]
+[04/06/2022 - 15:05:50.052 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,executed:,[object Object]
+[04/06/2022 - 15:05:50.054 DEBUG] (\virtual-voice-assistant\jarvis.js:26:39): [Jarvis.js DEBUG]:,[TTS()] > list of 6 items. Saying: Au revoir monsieur

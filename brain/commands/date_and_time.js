@@ -1,65 +1,42 @@
 /**
- * Gérer l'alimentation de l'ordinateur
+ * Savoir la date et/ou l'heure
  * 
  */
 
 let infos = {
-    description: "Gérer l'alimentation de l'ordinateur",
+    description: "Savoir la date et/ou l'heure",
     actions: [
-        "éteindre l'ordinateur", "mettre l'ordinateur en veille", "redémarrer l'ordinateur"
+        "donner la date", "donner l'heure"
     ],
     version: "1.0.0"
-}
-
-let Global = {
-}
-
-function init(config) {
-    for(let key in var_dict) {
-        Global[key] = var_dict[key]
-    }
 }
 
 let configuration = [
     {
         id: 1,
         optionnal: false,
-        content: ["l'ordi","l'ordinateur","ordinateur","ordi","pc","pécé"],
+        content: ["quelle","quel"],
         match: "any",
         caseSensitive: false
     },
     {
         id: 2,
         optionnal: false,
-        content: ["met","mets","mettre","place","passe","remet","remets","remettre"],
+        content: ["heure"],
         match: "any",
         caseSensitive: false
     },
     {
         id: 3,
         optionnal: false,
-        content: ["veille"],
+        content: ["jour","jours","mois","année",'annee',"moi","date","aujourd'hui","d'aujourd'hui"],
         match: "any",
         caseSensitive: false
     },
     {
         id: 4,
         optionnal: false,
-        content: ["éteins","éteindre","arrêter","arreter","stopper","l'éteindre","l'arrêter"],
-        match: "any",
-        caseSensitive: false
-    },
-    {
-        id: 5,
-        optionnal: false,
-        content: ["redémarre","relance","redémarrage","redemarrage"],
-        match: "any",
-        caseSensitive: false
-    },
-    {
-        id: 6,
-        optionnal: false,
-        content: ["vais","reviens","re","j'arrive","arrive","arriver"],
+        content: ["est","donne","donne-moi"],
         match: "any",
         caseSensitive: false
     }
@@ -67,33 +44,25 @@ let configuration = [
 
 let rules = [
     {
-        configuration: [1,2,3,6],
+        configuration: [1,2,4],
         answers: [
-            { weight: 5, value: "Très bien. A tout à l'heure monsieur" },
-            { weight: 4, value: "A tout à l'heure monsieur" },
-            { weight: 2, value: "Je passe l'ordinateur en veille" },
-            { weight: 2, value: "Je mets l'ordi en veille, aurevoir monsieur" }
+            { weight: 5, value: "Il est actuellement 22h07" },
+            { weight: 4, value: "Il est actuellement 22h07" },
+            { weight: 2, value: "Il est actuellement 22h07" },
+            { weight: 2, value: "Il est actuellement 22h07" }
         ],
         function: (Jarvis) => {
-            Jarvis.useModule("child_process").exec(`ping localhost -n 30>nul && shutdown -h`)
-            setTimeout(() => { Jarvis.toast.test("Mise en veille de l'ordinateur dans 5 secondes") }, 25*1000)
         }
     },
     {
-        configuration: [1,2,3],
+        configuration: [1,3,4],
         answers: [
-            { weight: 5, value: "Je mets l'ordinateur en mode veille" },
-            { weight: 4, value: "Je mets l'ordinateur en veille" },
-            { weight: 3, value: "Je passe l'ordinateur en mode veille" },
-            { weight: 2, value: "Je passe l'ordinateur en veille" },
-            { weight: 1, value: "Très bien, je le mets en veille" },
-            { weight: 1, value: "Très bien. A tout à l'heure monsieur" },
-            { weight: 1, value: "Passage de l'ordinateur en mode veille" },
-            { weight: 1, value: "L'ordinateur entre en veille" }
+            { weight: 5, value: "Il est actuellement 22h07" },
+            { weight: 4, value: "Il est actuellement 22h07" },
+            { weight: 2, value: "Il est actuellement 22h07" },
+            { weight: 2, value: "Il est actuellement 22h07" }
         ],
         function: (Jarvis) => {
-            Jarvis.useModule("child_process").exec(`ping localhost -n 30>nul && shutdown -h`)
-            setTimeout(() => { Jarvis.toast.test("Mise en veille de l'ordinateur dans 5 secondes") }, 25*1000)
         }
     },
     {
@@ -131,7 +100,6 @@ let rules = [
 
 module.exports = {
     "infos": infos,
-    //"init": init,
     "configuration": configuration,
     "rules": rules
 }

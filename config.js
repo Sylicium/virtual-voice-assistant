@@ -8,36 +8,19 @@ module.exports = {
             tts: "tao"
         },
         callNames: [
-            "tao", "jarvis", "sarah" // minuscule
+            "tao", "jarvis", "sarah", "wilfried" // lowercase
         ]
     },
     notificationCenter: {
         icon: "./src/img/jarvis_triangle_only.ico",
         title: "T.A.U."
     },
-    trayMenu: {
+    trayMenu: { // Tray menu is the little icons you can click on, in the bottom right corner like discord
         icon: "./src/img/jarvis_triangle_only.ico",
-        items: [
-            {
-                id: 1,
-                title: "Lock computer",
-                "function": () => {
-
-                }
-            },
-            {
-                id: 2,
-                title: 'Open I.A. folder',
-            },
-            {
-                id: 3,
-                title: '---',
-            },
-            {
-                id: 99,
-                title: 'Exit',
-            },
-        ]
+        // items: [ ] // Moved to ./localModules/windowsTrayMenu.js
+    },
+    stt: {
+        annyangLanguage: "fr"
     },
     tts: {
         default: {

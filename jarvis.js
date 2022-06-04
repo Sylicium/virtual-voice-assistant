@@ -9,7 +9,8 @@ const child_process = require("child_process")
 const path = require("path")
 
 let say = require("say")
-const { text } = require("express")
+const { text } = require("express");
+const { info } = require("console");
 
 /****** JARVIS MODULES *******/
 let JarvisModules = {
@@ -148,8 +149,16 @@ class createJarvis {
             "path": path
         }
         this._ActionManager = JarvisModules.actionManager(this)
-
         this._ActionManager.testManager()
+
+        this._infos = {
+            name: {
+                text: config.ai.name.text,
+                tts: config.ai.name.tts
+            }
+        }
+
+        this._configFile = config
         
 
         
@@ -158,6 +167,16 @@ class createJarvis {
 
 
 
+    }
+
+    getConfig() { return JSON.parse(JSON.stringify(this._configFile))}
+
+    getInfo(info_name) {
+        if(this._infos[info_name] != undefined) return this._infos[info_name]
+        else {
+            this.throwError("2",`Information not found in _infos: ${info_name}`)
+            return "<none>"
+        }
     }
 
     get toast() {

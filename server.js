@@ -103,6 +103,10 @@ module.exports.start = () => {
     io.on('connection', (socket) => {
         Logger.log(`[sock][+] [${socket.id}] Connected.`)
 
+        socket.emit("annyang_setLanguage", {
+            language: config.stt.annyangLanguage
+        })
+
 
         socket.on('disconnect', (socket) => {
             Logger.log(`[sock][-] [${socket.id}] Disconnected.`)

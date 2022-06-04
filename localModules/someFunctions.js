@@ -54,3 +54,35 @@ module.exports.randInt = randInt
 function randInt(min, max) {
     return Math.floor(Math.random()*(max-min)+min)
 }
+
+
+/**
+ * Renvoie une chaine de caractère aléatoire de longueur donnée et parmis les caractères donnés
+ * @param {Number} len Longueur de la chaine
+ * @param {String} charSet Chaine des caractères à utiliser / nom de préconfig
+ */
+module.exports.randomString = randomString
+function randomString(len, charSet) {
+    if(!charSet) {
+        charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
+    } else if(typeof charSet == "object" && charSet.length) {
+        charSet = charSet.join("")
+    } else if(typeof charSet == "string") {
+        if(charSet == "hex") charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
+        else if(charSet == "decimal") charSet = '0123456789'
+        else if(charSet == "lowercase") charSet = 'abcdefghijklmnopqrstuvwxyz'
+        else if(charSet == "uppercase") charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+        else if(charSet == "letters") charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+        else if(charSet == "base62") charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
+        else if(charSet == "base64") charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+        else if(charSet == "base64url") charSet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+_'
+    }
+    console.log(charSet, typeof charSet)
+    //charSet = charSet || 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    var randomString = '';
+    for (var i = 0; i < len; i++) {
+        var randomPoz = Math.floor(Math.random() * charSet.length);
+        randomString += charSet.substring(randomPoz,randomPoz+1);
+    }       
+    return randomString;
+}
