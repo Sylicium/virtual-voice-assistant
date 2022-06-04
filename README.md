@@ -83,7 +83,7 @@ let rules = [
 ```
 With a file like that, there is some example of sentences to say and their supposed behavior:
 
-- **Salut** Jarvis **ça va** ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 2  
+- **Salut** Jarvis **ça va** ?\t\t\t\t: rule 2  
 - **Bonjour** Jarvis tu **vas** bien&nbsp;&nbsp;&nbsp;: rule 3  
 - **Hey** Jarvis **ça va** ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 2  
 - **Bonjour** Jarvis **ça va** ?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rule 2  
