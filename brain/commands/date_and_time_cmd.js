@@ -63,16 +63,6 @@ let rules = [
         ],
         function: (Jarvis) => {
 
-            let pond_list = [
-            ]
-
-            Jarvis.tts(pond_list,
-                lang    = Jarvis.useModule("config").tts.default.lang,
-                volume  = Jarvis.useModule("config").tts.default.volume,
-                rate    = Jarvis.useModule("config").tts.default.rate,
-                pitch   = Jarvis.useModule("config").tts.default.pitch
-            )
-
         }
     },
     {
@@ -106,41 +96,6 @@ let rules = [
                 rate    = Jarvis.useModule("config").tts.default.rate,
                 pitch   = Jarvis.useModule("config").tts.default.pitch
             )
-        }
-    },
-    {
-        configuration: [
-            [1,4],
-        ],
-        answers: [
-            { weight: 5, value: "J'arrête l'ordinateur" },
-            { weight: 4, value: "j'éteins l'ordinateur" },
-            { weight: 3, value: "Au revoir monsieur" },
-            { weight: 2, value: "Très bien, j'arrête l'ordi" },
-            { weight: 1, value: "Extinction de l'ordinateur" },
-            { weight: 1, value: "Arrêt de l'ordinateur" }
-        ],
-        function: (Jarvis) => {
-            Jarvis.useModule("child_process").exec(`shutdown -s -t 30 -d P:0:0 /c "[JARVIS]: Action demandée par l'utilisateur: Arrêt."`)
-            setTimeout(() => { Jarvis.toast.test("Arrêt de l'ordinateur dans 5 secondes") }, 25*1000)
-        }
-    },
-    {
-        configuration: [
-            [1,5],
-        ],
-        answers: [
-            { weight: 5, value: "Je redémarre l'ordinateur" },
-            { weight: 4, value: "D'accord je redémarre l'ordinateur" },
-            { weight: 2, value: "A tout de suite monsieur" },
-            { weight: 2, value: "Redémarrage de l'ordinateur" },
-            { weight: 1, value: "Je lance le redémarrage de l'ordinateur" },
-            { weight: 1, value: "L'ordinateur va redémarrer" },
-            { weight: 1, value: "L'ordinateur redémarre" }
-        ],
-        function: (Jarvis) => {
-            Jarvis.useModule("child_process").exec(`shutdown -r -t 30 -d P:0:0 /c "[JARVIS]: Action demandée par l'utilisateur: Redémarrage."`)
-            setTimeout(() => { Jarvis.toast.test("Redémarrage de l'ordinateur dans 5 secondes") }, 25*1000)
         }
     }
 ]
