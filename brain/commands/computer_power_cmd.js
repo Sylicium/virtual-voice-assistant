@@ -67,7 +67,7 @@ let configuration = [
 
 let rules = [
     {
-        configuration: [1,2,3,6],
+        configuration: [[1,2,3,6]],
         answers: [
             { weight: 5, value: "Très bien. A tout à l'heure monsieur" },
             { weight: 4, value: "A tout à l'heure monsieur" },
@@ -76,11 +76,11 @@ let rules = [
         ],
         function: (Jarvis) => {
             Jarvis.useModule("child_process").exec(`ping localhost -n 30>nul && shutdown -h`)
-            setTimeout(() => { Jarvis.toast.test("Mise en veille de l'ordinateur dans 5 secondes") }, 25*1000)
+            setTimeout(() => { Jarvis.toast.info("Mise en veille de l'ordinateur dans 5 secondes") }, 25*1000)
         }
     },
     {
-        configuration: [1,2,3],
+        configuration: [[1,2,3]],
         answers: [
             { weight: 5, value: "Je mets l'ordinateur en mode veille" },
             { weight: 4, value: "Je mets l'ordinateur en veille" },
@@ -93,11 +93,11 @@ let rules = [
         ],
         function: (Jarvis) => {
             Jarvis.useModule("child_process").exec(`ping localhost -n 30>nul && shutdown -h`)
-            setTimeout(() => { Jarvis.toast.test("Mise en veille de l'ordinateur dans 5 secondes") }, 25*1000)
+            setTimeout(() => { Jarvis.toast.info("Mise en veille de l'ordinateur dans 5 secondes") }, 25*1000)
         }
     },
     {
-        configuration: [1,4],
+        configuration: [[1,4]],
         answers: [
             { weight: 5, value: "J'arrête l'ordinateur" },
             { weight: 4, value: "j'éteins l'ordinateur" },
@@ -108,11 +108,11 @@ let rules = [
         ],
         function: (Jarvis) => {
             Jarvis.useModule("child_process").exec(`shutdown -s -t 30 -d P:0:0 /c "[JARVIS]: Action demandée par l'utilisateur: Arrêt."`)
-            setTimeout(() => { Jarvis.toast.test("Arrêt de l'ordinateur dans 5 secondes") }, 25*1000)
+            setTimeout(() => { Jarvis.toast.info("Arrêt de l'ordinateur dans 5 secondes") }, 25*1000)
         }
     },
     {
-        configuration: [1,5],
+        configuration: [[1,5]],
         answers: [
             { weight: 5, value: "Je redémarre l'ordinateur" },
             { weight: 4, value: "D'accord je redémarre l'ordinateur" },
@@ -124,7 +124,7 @@ let rules = [
         ],
         function: (Jarvis) => {
             Jarvis.useModule("child_process").exec(`shutdown -r -t 30 -d P:0:0 /c "[JARVIS]: Action demandée par l'utilisateur: Redémarrage."`)
-            setTimeout(() => { Jarvis.toast.test("Redémarrage de l'ordinateur dans 5 secondes") }, 25*1000)
+            setTimeout(() => { Jarvis.toast.info("Redémarrage de l'ordinateur dans 5 secondes") }, 25*1000)
         }
     }
 ]

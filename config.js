@@ -4,7 +4,7 @@ module.exports = {
     },
     ai: {
         name: {
-            text: "T.A.U.",
+            text: "Wilfried",
             tts: "tao"
         },
         callNames: [
@@ -13,7 +13,7 @@ module.exports = {
     },
     notificationCenter: {
         icon: "./src/img/jarvis_triangle_only.ico",
-        title: "T.A.U."
+        title: "Wilfried: {{title}}"
     },
     trayMenu: { // Tray menu is the little icons you can click on, in the bottom right corner like discord
         icon: "./src/img/jarvis_triangle_only.ico",

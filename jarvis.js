@@ -22,7 +22,7 @@ let rootDirectory = __dirname
 let Logger = {
     log: (...args) => { Logger_file.log(`[Jarvis.js LOG]:`,...args) },
     error: (...args) => { Logger_file.error(`[Jarvis.js ERROR]:`,...args) },
-    warn: (...args) => { Logger_file.success(`[Jarvis.js WARN]:`,...args) },
+    warn: (...args) => { Logger_file.warn(`[Jarvis.js WARN]:`,...args) },
     info: (...args) => { Logger_file.info(`[Jarvis.js INFO]:`,...args) },
     debug: (...args) => { Logger_file.debug(`[Jarvis.js DEBUG]:`,...args) }
 }
@@ -47,12 +47,12 @@ class commandObject {
     testConfiguration(configID, text) {
         let args = this.getFormatedArgs(text)
         let configNeeded = this.configuration.filter(x => { return x.id == configID })[0]
-        Logger.debug("configNeeded:",configNeeded)
+        //Logger.debug("configNeeded:",configNeeded)
         if(configNeeded.match == "all") {
-            console.log("testing all", args,configNeeded.content, " =>",somef.all(args, configNeeded.content, false))
+            //Logger.debug("testing all", args,configNeeded.content, " =>",somef.all(args, configNeeded.content, false))
             return somef.all(args, configNeeded.content, false)
         } else if(configNeeded.match = "any") {
-            console.log("testing any", args,configNeeded.content, " =>",somef.any(args, configNeeded.content, false))
+            //Logger.debug("testing any", args,configNeeded.content, " =>",somef.any(args, configNeeded.content, false))
             return somef.any(args, configNeeded.content, false)
         }
     }
@@ -62,10 +62,13 @@ class commandObject {
             let rule = this.rules[rule_i]
             let answers = rule.answers
             let isConfigOk = true
-            for(let configNeededInt_index in rule.configuration) {
-                let configNeededInt = rule.configuration[configNeededInt_index]
-                let tested = this.testConfiguration(configNeededInt, text)
-                if(!tested) isConfigOk = false
+            for(let configurationNeededInt_index in rule.configuration) {
+                Logger.debug("AAAAAAAAAB: ",rule.configuration[configurationNeededInt_index])
+                for(let configNeededInt_index in rule.configuration[configurationNeededInt_index]) {
+                    let configNeededInt = rule.configuration[configurationNeededInt_index][configNeededInt_index]
+                    let tested = this.testConfiguration(configNeededInt, text)
+                    if(!tested) isConfigOk = false
+                }
                 
             }
             if(isConfigOk) return {
@@ -80,7 +83,7 @@ class commandObject {
 
     execute = (text) => {
         let tested = this.test(text)
-        Logger.debug("tested:",tested)
+        //Logger.debug("tested:",tested)
         if(tested.isOk) {
             if(tested.rule.function) {
                 setTimeout(async () => {
@@ -96,7 +99,7 @@ class commandObject {
 
 
 function getCommandRequireListOfDirectory(path, ends_with=".js") {
-    let list = []
+    let List = []
     fs.readdirSync(path).forEach(file => {
         if(file.endsWith(ends_with)) {
             let fileName = file.split(".")
@@ -105,15 +108,15 @@ function getCommandRequireListOfDirectory(path, ends_with=".js") {
             //require(`./events/${endpoint_type}/${fileName}`).start(bot, endpoint_type)
             let the_require = require(`${path}${fileName}`)
             let command = new commandObject(the_require)
-        
-            list.push({
+            console.log("added")
+            List.push({
                 fileName: fileName,
                 require: the_require,
                 command: command
             })
         }
     })
-    return list
+    return List
 }
 
 function getRequireListOfDirectory(path, ends_with=".js") {
@@ -149,7 +152,6 @@ class createJarvis {
             "path": path
         }
         this._ActionManager = JarvisModules.actionManager(this)
-        this._ActionManager.testManager()
 
         this._infos = {
             name: {
@@ -163,7 +165,9 @@ class createJarvis {
 
         
         this.commands = getCommandRequireListOfDirectory("./brain/commands/", "_cmd.js")
-        console.log(this.commands)
+        Logger.debug(this.commands)
+
+        this.toast.info("Démarré. Bonjour monsieur.")
 
 
 
@@ -181,16 +185,43 @@ class createJarvis {
 
     get toast() {
         return {
-            "info": (message, sound=true, ...args) => {
+            "info": (message, title, sound=true, ...args) => {
                 notifier.notify({
-                    title: config.ai.name.text,
+                    title: `INFO | ${config.notificationCenter.title.replace("{{title}}",title || "")}`,
                     message: message,
                     icon: path.join(rootDirectory, config.notificationCenter.icon), // Absolute path (doesn't work on balloons)
                     sound: sound, // Only Notification Center or Windows Toasters
                 
                 });
             },
-            "test": (message,
+            "warn": (message, title, sound=true, ...args) => {
+                notifier.notify({
+                    title: `WARN | ${config.notificationCenter.title.replace("{{title}}",title || "")}`,
+                    message: message,
+                    icon: path.join(rootDirectory, config.notificationCenter.icon), // Absolute path (doesn't work on balloons)
+                    sound: sound, // Only Notification Center or Windows Toasters
+                
+                });
+            },
+            "error": (message, title, sound=true, ...args) => {
+                notifier.notify({
+                    title: `ERROR | ${config.notificationCenter.title.replace("{{title}}",title || "")}`,
+                    message: message,
+                    icon: path.join(rootDirectory, config.notificationCenter.icon), // Absolute path (doesn't work on balloons)
+                    sound: sound, // Only Notification Center or Windows Toasters
+                
+                });
+            },
+            "debug": (message, title, sound=true, ...args) => {
+                notifier.notify({
+                    title: `DEBUG | ${config.notificationCenter.title.replace("{{title}}",title || "")}`,
+                    message: message,
+                    icon: path.join(rootDirectory, config.notificationCenter.icon), // Absolute path (doesn't work on balloons)
+                    sound: sound, // Only Notification Center or Windows Toasters
+                
+                });
+            },
+            "notify": (message,
                     title       = undefined,
                     subtitle    = undefined,
                     sound       = true,
@@ -224,7 +255,7 @@ class createJarvis {
                       reply: reply // Boolean. If notification should take input. Value passed as third argument in callback and event emitter.
                     },
                     function (error, response, metadata) {
-                      console.log(response, metadata);
+                        Logger.debug(response, metadata);
                     }
                 );
             }
@@ -249,13 +280,12 @@ class createJarvis {
 
     throwError(errorCode, message) {
         let text = `[!][Jarvis.js][ERROR]: code: ${errorCode} | ${message}`
-        Logger.debug(text)
+        Logger.error(text)
         throw new Error(text)
     }
     throwWarn(errorCode, message) {
         let text = `[!][Jarvis.js][ERROR]: code: ${errorCode} | ${message}`
-        Logger.debug(text)
-        throw new Error(text)
+        Logger.warn(text)
     }
 
 
@@ -271,7 +301,7 @@ class createJarvis {
         for(let commandDatas_i in this.commands) {
             let commandDatas = this.commands[commandDatas_i]
             let commandObject = commandDatas.command
-            Logger.debug("Trying to execute:",commandObject)
+            Logger.debug("Trying to execute:",commandDatas.fileName)
             let executed = commandObject.execute(text)
             Logger.debug("executed:",executed)
             if(executed.executed) {
@@ -298,6 +328,11 @@ class createJarvis {
         rate = 1
         pitch = 0
         */
+
+        if(pond_list.length == 0) {
+            this.throwWarn("0","Empty TTS list")
+            return;
+        }
         
         let text = "erreur"
 
@@ -344,10 +379,10 @@ module.exports.init = (var_dict) => {
 let voiceName = "paul"
 say.speak("Luke, I am your father", voiceName, 0.75 , (err) => {
     if (err) {
-        return console.error(err);
+        return Logger.debug(err);
     }
 
-    console.log(`Text with the voice ${voice}`);
+    Logger.debug(`Text with the voice ${voice}`);
 });
 */
 /*
@@ -364,7 +399,7 @@ var gtts = new gTTS(speech, 'fr');
 
 gtts.save('Voice.mp3', function (err, result){
     if(err) { throw new Error(err); }
-    console.log("Text to speech converted!");
+    Logger.debug("Text to speech converted!");
 });
 
 
@@ -373,9 +408,9 @@ var gtts = new gTTS(speech, 'fr');
   
 gtts.save('Voice2.mp3', function (err, result){
     if(err) { throw new Error(err); }
-    console.log("Text to speech converted! 2");
+    Logger.debug("Text to speech converted! 2");
     player.play('./Voice.mp3', function(err){
-        if (err) console.log(err)
+        if (err) Logger.debug(err)
       })
 });
 

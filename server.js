@@ -119,9 +119,16 @@ module.exports.start = () => {
     })
 
 
-    serv.listen(config.server.port, () => {
-        Logger.info(`Serveur démarré sur le port ${config.server.port}`)
-    })
+    try {
+
+        serv.listen(config.server.port, (s, err) => {
+            if(s) console.log("\n\n\n\n\n\nUNE ERREUUUURRR 2:",s)
+            if(err) console.log("\n\n\n\n\n\nUNE ERREUUUURRR 3:",err)
+            Logger.info(`Serveur démarré sur le port ${config.server.port}`)
+        })
+    } catch(e) {
+        console.log("\n\n\n\n\n\nUNE ERREUUUURRR:",e)
+    }
 
 
 

@@ -95,7 +95,7 @@ logger.info("Starting all modules...")
 let somef = require("./localModules/someFunctions")
 let Jarvis = require("./jarvis")
 
-require("./localModules/windowsTrayMenu").init(Jarvis)
+let windowsTrayMenu = require("./localModules/windowsTrayMenu").start(Jarvis)
 
 let server = require("./server")
 server.start()

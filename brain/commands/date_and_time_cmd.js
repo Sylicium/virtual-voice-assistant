@@ -39,34 +39,79 @@ let configuration = [
         content: ["est","donne","donne-moi"],
         match: "any",
         caseSensitive: false
-    }
+    },
+    {
+        id: 5,
+        optionnal: false,
+        content: ["combien","est","on"],
+        match: "all",
+        caseSensitive: false
+    },
+
 ]
 
 let rules = [
     {
-        configuration: [1,2,4],
+        configuration: [
+            [1,2,4]
+        ],
         answers: [
-            { weight: 5, value: "Il est actuellement 22h07" },
-            { weight: 4, value: "Il est actuellement 22h07" },
-            { weight: 2, value: "Il est actuellement 22h07" },
-            { weight: 2, value: "Il est actuellement 22h07" }
+            { weight: 5, value: `Il est actuellement ${(new Date()).getHours()}h${(new Date()).getMinutes()}` },
+            { weight: 4, value: `Il est actuellement ${(new Date()).getHours()}h${(new Date()).getMinutes()}` },
+            { weight: 2, value: `Il est actuellement ${(new Date()).getHours()}h${(new Date()).getMinutes()}` },
+            { weight: 2, value: `Il est actuellement ${(new Date()).getHours()}h${(new Date()).getMinutes()}` }
         ],
         function: (Jarvis) => {
+
+            let pond_list = [
+            ]
+
+            Jarvis.tts(pond_list,
+                lang    = Jarvis.useModule("config").tts.default.lang,
+                volume  = Jarvis.useModule("config").tts.default.volume,
+                rate    = Jarvis.useModule("config").tts.default.rate,
+                pitch   = Jarvis.useModule("config").tts.default.pitch
+            )
+
         }
     },
     {
-        configuration: [1,3,4],
+        configuration: [
+            [5],
+            [1,3,4]
+        ],
         answers: [
-            { weight: 5, value: "Il est actuellement 22h07" },
-            { weight: 4, value: "Il est actuellement 22h07" },
-            { weight: 2, value: "Il est actuellement 22h07" },
-            { weight: 2, value: "Il est actuellement 22h07" }
         ],
         function: (Jarvis) => {
+
+            let isYear = (Math.floor(Math.random()*2) == 1)
+
+            let date = Jarvis.useModule("somef").formatDate(Date.now(), `le DD MMMMM${isYear ? " YYYY" :""}`)
+            let date_with_dayname = Jarvis.useModule("somef").formatDate(Date.now(), `DDDDD DD MMMMM${isYear ? " YYYY" :""}`)
+            
+            let dayName = (num) => { return ["Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi","Dimanche"][num] }
+
+            let pond_list = [
+                { weight: 5, value: `Nous sommes ${date_with_dayname}` },
+                { weight: 2, value: `Nous sommes ${date} monsieur` },
+                { weight: 3, value: `Aujourd'hui nous sommes ${date_with_dayname}` },
+                { weight: 2, value: `La date d'aujourd'hui est ${date_with_dayname}` },
+                { weight: 2, value: `Nous sommes ${date} monsieur` },
+                { weight: 2, value: `Nous sommes ${date}` },
+            ]
+            
+            Jarvis.tts(pond_list,
+                lang    = Jarvis.useModule("config").tts.default.lang,
+                volume  = Jarvis.useModule("config").tts.default.volume,
+                rate    = Jarvis.useModule("config").tts.default.rate,
+                pitch   = Jarvis.useModule("config").tts.default.pitch
+            )
         }
     },
     {
-        configuration: [1,4],
+        configuration: [
+            [1,4],
+        ],
         answers: [
             { weight: 5, value: "J'arrête l'ordinateur" },
             { weight: 4, value: "j'éteins l'ordinateur" },
@@ -81,7 +126,9 @@ let rules = [
         }
     },
     {
-        configuration: [1,5],
+        configuration: [
+            [1,5],
+        ],
         answers: [
             { weight: 5, value: "Je redémarre l'ordinateur" },
             { weight: 4, value: "D'accord je redémarre l'ordinateur" },
