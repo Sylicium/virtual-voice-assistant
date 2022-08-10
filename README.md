@@ -4,6 +4,7 @@ Then why i write the README.md file in english ? Well idk too..
 
 # Installation
 just run the index.js lol
+And then go on localhost:1111 (or other port specified in ./config.js)
 
 # Commands available
 All commands available by default are in ./brain/commands/*
