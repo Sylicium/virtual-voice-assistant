@@ -46,7 +46,9 @@ let configuration = [
 
 let rules = [
     {
-        configuration: [1], // the list of configurations that need to be true to execute this rule.
+        configuration: [
+            [1], // the list of configurations that need to be true to execute this rule.
+        ],
         answers: [ // Anwsers that the AI can answer. Adding a weight make the sentence more chances to be used.
             { weight: 5, value: "Très bien. Bonne nuit monsieur" },
             { weight: 4, value: "A demain monsieur" },
@@ -59,7 +61,9 @@ let rules = [
         }
     },
     {
-        configuration: [4,2,3],
+        configuration: [
+            [4,2,3],
+        ],
         answers: [
             { weight: 1, value: "Je vais très bien et vous" },
             { weight: 2, value: "Comme une I.A" },
@@ -70,7 +74,9 @@ let rules = [
         function: (Jarvis) => { }
     },
     {
-        configuration: [4],
+        configuration: [
+            [4],
+        ],
         answers: [
             { weight: 5, value: "Bonjour monsieur" },
             { weight: 4, value: "Bonjour" },
